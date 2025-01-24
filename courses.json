@@ -1,0 +1,49 @@
+{
+  "courses": [
+    {
+      "courseNumber": "20033700",
+      "subject": "Science",
+      "title": "AP Chemistry",
+      "description": "Advanced Placement Chemistry will provide students with a college level course in chemistry and will prepare the student to seek credit and/or appropriate placement in college chemistry courses. Topics will include but not be limited to: structure of matter, states of matter, chemical reactions, and descriptive chemistry.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Completed a preparatory Chemistry course and Algebra 1.",
+      "grades": "10-12",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "00000000",
+      "subject": "Math",
+      "title": "Algebra 1",
+      "description": "In Algebra 1 instructional time will emphasize five areas:(1) performing operations with polynomials and radicals, and extending the Laws of Exponents to include rational exponents;(2) extending understanding of functions to linear, quadratic and exponential functions and using them to model and analyze real-world relationships;(3) solving quadratic equations in one variable and systems of linear equations and inequalities in two variables;(4) building functions, identifying their key features and representing them in various ways and(5) representing and interpreting categorical and numerical data with one and two variables.",
+      "prerequisites": "Pre-Algebra, 8th grade math",
+      "grades": "9",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "00000000",
+      "subject": "English",
+      "title": "English II Pre AICE",
+      "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular, English III Honors, AICE, or Advanced Placement Language and Composition. ",
+      "prerequisites": "English I Pre AICE",
+      "grades": "9",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "00000000",
+      "subject": "Social Studies",
+      "title": "AICE European History AS Level",
+      "description": "Students will study modern Europe from 1750-1921. Topics include France (1774-1814), the Industrial Revolution in Britain (1750–1850), liberalism and nationalism in Germany (1815–71), and the Russian Revolution (1894–1921). This course satisfies World History credit.",
+      "prerequisites": "Teacher recommendation and FAST ELA Score 3-5",
+      "grades": "10-12",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "00000000",
+      "subject": "Electives",
+      "title": "Latinos in Action 1",
+      "description": "Latinos in Action 1 seeks to improve the linguistic, social, and cognitive development of Latino students while having them serve as role models, mentors, and tutors for their younger peers and elementary school aged students. Aligned with the mission to empower Latino youth through culture, service, leadership, and education, the program focuses on cross-age tutoring and a college readiness curriculum to help students graduate from college.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "type": "Regular"
+    }
+  ]
+}
