@@ -7,7 +7,8 @@
       "description": "Advanced Placement Chemistry will provide students with a college level course in chemistry and will prepare the student to seek credit and/or appropriate placement in college chemistry courses. Topics will include but not be limited to: structure of matter, states of matter, chemical reactions, and descriptive chemistry.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
       "prerequisites": "Completed a preparatory Chemistry course and Algebra 1.",
       "grades": "10-12",
-      "type": "AP"
+      "type": "AP",
+      "creditEquivalency": ""
     },
     {
       "courseNumber": "00000000",
@@ -34,7 +35,8 @@
       "description": "Students will study modern Europe from 1750-1921. Topics include France (1774-1814), the Industrial Revolution in Britain (1750–1850), liberalism and nationalism in Germany (1815–71), and the Russian Revolution (1894–1921). This course satisfies World History credit.",
       "prerequisites": "Teacher recommendation and FAST ELA Score 3-5",
       "grades": "10-12",
-      "type": "AICE"
+      "type": "AICE",
+      "creditEquivalency": ""
     },
     {
       "courseNumber": "00000000",
