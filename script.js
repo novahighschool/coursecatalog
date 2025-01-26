@@ -17,11 +17,10 @@ function createCourseCard(course) {
             <p class="course-description">${course.description}</p>
             <div class="course-meta">
                 <span>Grades: ${course.grades}</span>
-                ${
-                  course.prerequisites
-                    ? `<span>Prerequisites: ${course.prerequisites}</span>`
-                    : ""
-                }
+                
+                ${course.prerequisites ? `<span>Prerequisites: ${course.prerequisites}</span>`: ""}
+                ${course.creditEquivalency ? `<span>Credit-by-Exam Equivalency: ${course.creditEquivalency}</span>`: ""}
+                
             </div>
             
         </div>
