@@ -41,10 +41,7 @@ function filterCourses() {
       course.title.toLowerCase().includes(search) ||
       course.description.toLowerCase().includes(search) ||
       course.courseNumber.toLowerCase().includes(search);
-     ||
-      course.prerequisites.toLowerCase().includes(search);
-   ||
-      course.creditEquivalency.toLowerCase().includes(search);
+
 
     return subjectMatch && typeMatch && searchMatch;
   });
