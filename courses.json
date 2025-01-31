@@ -48,582 +48,471 @@
       "type": "Regular"
     },
 
+    {
+      "courseNumber": null,
 
-    { 
+      "subject": "Electives",
 
-      "courseNumber": null, 
+      "title": "AP 2-D Art",
 
-      "subject": "Electives", 
+      "description": "AP 2-D Art and Design is an introductory college-level two-dimensional design course. Students refine and apply 2-D skills to ideas they develop throughout the course.",
 
-      "title": "AP 2-D Art", 
+      "prerequisites": "Teacher recommendation",
 
-      "description": "AP 2-D Art and Design is an introductory college-level two-dimensional design course. Students refine and apply 2-D skills to ideas they develop throughout the course.", 
+      "grades": "10-12",
 
-      "prerequisites": "Teacher recommendation”, 
+      "type": "AP",
 
-      "grades": "10-12", 
+      "creditEquivalency": "Passing Score 3-5: ART1201C – 2D Design (3 credits)"
+    },
 
-      "type": "AP", 
+    {
+      "courseNumber": null,
 
-“creditEquivalency”: “Passing Score 3-5: ART1201C – 2D Design (3 credits)” 
+      "subject": "Electives",
 
-}, 
+      "title": "AP 3-D Art",
 
- 
+      "description": "AP 3-D Art and Design is an introductory college-level three-dimensional design course. Students refine and apply 3-D skills to ideas they develop throughout the course.",
 
- 
+      "prerequisites": "Teacher recommendation",
 
-{ 
+      "grades": "10-12",
 
-      "courseNumber":null, 
+      "type": "AP",
 
-      "subject": "Electives", 
+      "creditEquivalency": "Passing Score 3-5: ART1203C – 3D Design (3 credits)"
+    },
 
-      "title": "AP 3-D Art", 
+    {
+      "courseNumber": "20003400",
 
-      "description": "AP 3-D Art and Design is an introductory college-level three-dimensional design course. Students refine and apply 3-D skills to ideas they develop throughout the course.", 
+      "subject": "Electives",
 
-      "prerequisites": "Teacher recommendation”, 
+      "title": "AP Biology",
 
-      "grades": "10-12", 
+      "description": "AP Biology is an introductory college-level biology course. Students cultivate their understanding of biology through inquiry-based investigations as they explore topics like evolution, energetics, information storage and transfer, and system interactions.",
 
-      "type": "AP", 
+      "prerequisites": "Biology, Chemistry, and teacher recommendation",
 
-“creditEquivalency”: “Passing Score 3-5: ART1203C – 3D Design (3 credits)” 
+      "grades": "10-12",
 
-}, 
+      "type": "AP",
 
- 
+      "creditEquivalency": "Passing Score 3: BSC1005 & BSC1005L – Biological Principles and Lab (4 credits); Passing Score 4: BSC2010 & BSC2010L – Introduction to Biology I and Lab (4 credits); Passing Score 5: BSC2010 & BSC2010L - Introduction to Biology I & Lab AND BSC2011 & BSC2011L - Introduction to Biology II & Lab (8 credits)"
+    },
 
- 
+    {
+      "courseNumber": null,
 
-{ 
+      "subject": "Math",
 
-      "courseNumber": “20003400”, 
+      "title": "AP Calculus AB",
 
-      "subject": "Electives", 
+      "description": "AP Calculus AB is an introductory college-level calculus course. Students cultivate their understanding of differential and integral calculus through engaging with real-world problems represented graphically, numerically, analytically, and verbally and using definitions and theorems to build arguments and justify conclusions as they explore concepts like change, limits, and the analysis of functions.",
 
-      "title": "AP Biology", 
+      "prerequisites": "Precalculus and teacher recommendation",
 
-      "description": "AP Biology is an introductory college-level biology course. Students cultivate their understanding of biology through inquiry-based investigations as they explore topics like evolution, energetics, information storage and transfer, and system interactions.", 
+      "grades": "11-12",
 
-      "prerequisites": "Biology, Chemistry, and teacher recommendation”, 
+      "type": "AP",
+      "creditEquivalency": "Passing Score 3-5: MAC2311 – Calculus & Analytical Geometry I (5 credits)"
+    },
 
-      "grades": "10-12", 
+    {
+      "courseNumber": null,
 
-      "type": "AP", 
+      "subject": "Math",
 
-“creditEquivalency”: “Passing Score 3: BSC1005 & BSC1005L – Biological Principles and Lab (4 credits); 
+      "title": "AP Calculus BC",
 
-Passing Score 4: BSC2010 & BSC2010L – Introduction to Biology I and Lab (4 credits); 
+      "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.",
 
-Passing Score 5: BSC2010 & BSC2010L - Introduction to Biology I & Lab AND BSC2011 & BSC2011L - Introduction to Biology II & Lab (8 credits)” 
+      "prerequisites": "Biology, Chemistry, and teacher recommendation",
 
-}, 
+      "grades": "11-12",
 
- 
+      "type": "AP",
 
-{ 
+      "creditEquivalency": "Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)"
+    },
 
-      "courseNumber": null, 
+    {
+      "courseNumber": null,
 
-      "subject": "Math", 
+      "subject": "Science",
 
-      "title": "AP Calculus AB", 
+      "title": "AP Chemistry",
 
-      "description": "AP Calculus AB is an introductory college-level calculus course. Students cultivate their understanding of differential and integral calculus through engaging with real-world problems represented graphically, numerically, analytically, and verbally and using definitions and theorems to build arguments and justify conclusions as they explore concepts like change, limits, and the analysis of functions.", 
+      "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.",
 
-      "prerequisites": "Precalculus and teacher recommendation”, 
+      "prerequisites": "Biology, Chemistry, and teacher recommendation",
 
-      "grades": "11-12", 
+      "grades": "10-12",
 
-      "type": "AP", 
+      "type": "AP",
 
-“creditEquivalency”: “Passing Score 3-5: MAC2311 – Calculus & Analytical Geometry I (5 credits)” 
+      "creditEquivalency": "Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)"
+    },
 
-}, 
+    {
+      "courseNumber": null,
 
-{ 
+      "subject": "Electives",
 
-      "courseNumber": null, 
+      "title": "AP Computer Science A",
 
-      "subject": "Math", 
+      "description": "AP Computer Science A is an introductory college-level computer science course. Students cultivate their understanding of coding through analyzing, writing, and testing code as they explore concepts like modularity, variables, and control structures.",
 
-      "title": "AP Calculus BC", 
+      "prerequisites": "Advanced IT Honors or equivalent course and teacher recommendation",
 
-      "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.", 
+      "grades": "10-12",
 
-      "prerequisites": "Biology, Chemistry, and teacher recommendation”, 
+      "type": "AP",
 
-      "grades": "11-12", 
+      "creditEquivalency": "Passing Score 3-5: CGS1060C – Computer & Internet Literacy (3 credits)"
+    },
 
-      "type": "AP", 
+    {
+      "courseNumber": null,
 
-“creditEquivalency”: “Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); 
+      "subject": "Electives",
 
-Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); 
+      "title": "AP Computer Science Principles",
 
-Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)” 
+      "description": "AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs.",
 
-}, 
+      "prerequisites": "Advanced IT Honors or equivalent course and teacher recommendation",
 
- 
+      "grades": "10-12",
 
- 
+      "type": "AP",
 
- 
+      "creditEquivalency": "Passing Score 3-5: COP1000C – Introduction to Computer Programming (3 credits)"
+    },
 
-{ 
+    {
+      "courseNumber": null,
 
-      "courseNumber": null, 
+      "subject": "Electives",
 
-      "subject": "Science", 
+      "title": "AP Drawing",
 
-      "title": "AP Chemistry", 
+      "description": "AP Drawing is an introductory college-level drawing course. Students refine and apply drawing skills to ideas they develop throughout the course.",
 
-      "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.", 
+      "prerequisites": "Teacher recommendation",
 
-      "prerequisites": "Biology, Chemistry, and teacher recommendation”, 
+      "grades": "10-12",
 
-      "grades": "10-12", 
+      "type": "AP",
 
-      "type": "AP", 
+      "creditEquivalency": "Passing Score 3-5: ART1300C – Drawing I (3 credits)"
+    },
 
-“creditEquivalency”: “Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); 
+    {
+      "courseNumber": null,
 
-Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); 
+      "subject": "English",
 
-Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)” 
+      "title": "AP English Language and Composition",
 
-}, 
+      "description": "AP English Language and Composition is an introductory college-level composition course. Students cultivate their understanding of writing and rhetorical arguments through reading, analyzing, and writing texts as they explore topics like rhetorical situation, claims and evidence, reasoning and organization, and style.",
 
- 
+      "prerequisites": "FAST Reading Level 4 or 5 and teacher recommendation",
 
-{ 
+      "grades": "11-12",
 
-      "courseNumber": null, 
+      "type": "AP",
 
-      "subject": "Electives", 
+      "creditEquivalenc": "Passing Score 3: ENC1101 – Composition I (3 credits); Passing Score 4-5: ENC 1101 - Composition I AND ENC1102 – Composition II (6 credits)"
+    },
 
-      "title": "AP Computer Science A", 
+    {
+      "courseNumber": null,
 
-      "description": "AP Computer Science A is an introductory college-level computer science course. Students cultivate their understanding of coding through analyzing, writing, and testing code as they explore concepts like modularity, variables, and control structures.", 
+      "subject": "English",
 
-      "prerequisites": "Advanced IT Honors or equivalent course and teacher recommendation”, 
+      "title": "AP English Literature and Composition",
 
-      "grades": "10-12", 
+      "description": "AP English Literature and Composition is an introductory college-level literary analysis course. Students cultivate their understanding of literature through reading and analyzing texts as they explore concepts like character, setting, structure, perspective, figurative language, and literary analysis in the context of literary works.",
 
-      "type": "AP", 
+      "prerequisites": "AICE English Language or AP English Language and teacher recommendation",
 
-“creditEquivalency”: “Passing Score 3-5: CGS1060C – Computer & Internet Literacy (3 credits)” 
+      "grades": "12",
 
-}, 
+      "type": "AP",
 
-{ 
+      "creditEquivalency": "Passing Score 3: LIT2000 – Introduction to Literature (3 credits); Passing Score 4-5: ENC 1101 – Composition I AND LIT2000 – Introduction to Literature (6 credits)"
+    },
 
-      "courseNumber": null, 
+    {
+      "courseNumber": "20013800",
 
-      "subject": "Electives", 
+      "subject": "Science",
 
-      "title": "AP Computer Science Principles", 
+      "title": "AP Environmental Science",
 
-      "description": "AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs.", 
+      "description": "Students cultivate their understanding of the interrelationships of the natural world through inquiry-based lab investigations and field work as they explore concepts like the four Big Ideas; energy transfer, interactions between earth systems, interactions between different species and the environment, and sustainability.",
 
-      "prerequisites": "Advanced IT Honors or equivalent course and teacher recommendation”, 
+      "prerequisites": "Biology, Chemistry, and teacher recommendation",
 
-      "grades": "10-12", 
+      "grades": "10-12",
 
-      "type": "AP", 
+      "type": "AP",
 
-“creditEquivalency”: “Passing Score 3-5: COP1000C – Introduction to Computer Programming (3 credits)” 
+      "creditEquivalency": "Passing Score 3-5: EVR1009 – Introduction to Environmental Science (3 credits)"
+    },
 
-}, 
+    {
+      "courseNumber": null,
 
- 
+      "subject": "Social Studies",
 
-{ 
+      "title": "AP Human Geography",
 
-      "courseNumber": null, 
+      "description": "AP Human Geography is an introductory college-level human geography course. Students cultivate their understanding of human geography through data and geographic analyses as they explore topics like patterns and spatial organization, human impacts and interactions with their environment, and spatial processes and societal changes.",
 
-      "subject": "Electives", 
+      "prerequisites": "FAST Reading Level 4 or 5",
 
-      "title": "AP Drawing", 
+      "grades": "9-12",
 
-      "description": "AP Drawing is an introductory college-level drawing course. Students refine and apply drawing skills to ideas they develop throughout the course.", 
+      "type": "AP",
 
-      "prerequisites": "Teacher recommendation”, 
+      "creditEquivalency": "Passing Score 3-5: GEO2420 – Introduction to Human/Cultural Geography (3 credits)"
+    },
 
-      "grades": "10-12", 
+    {
+      "courseNumber": null,
 
-      "type": "AP", 
+      "subject": "Social Studies",
 
-“creditEquivalency”: “Passing Score 3-5: ART1300C – Drawing I (3 credits)” 
+      "title": "AP Macroeconomics",
 
-}, 
+      "description": "AP Macroeconomics is an introductory college-level macroeconomics course. Students cultivate their understanding of the principles that apply to an economic system as a whole by using principles and models to describe economic situations and predict and explain outcomes with graphs, charts, and data as they explore concepts like economic measurements, markets, macroeconomic models, and macroeconomic policies.",
 
- 
+      "prerequisites": "Teacher recommendation",
 
-{ 
+      "grades": "11-12",
 
-      "courseNumber": null, 
+      "type": "AP",
 
-      "subject": "English", 
+      "creditEquivalency": "Passing Score 3-5: ECO2013 – Principles of Macroeconomics (3 credits)"
+    },
 
-      "title": "AP English Language and Composition", 
+    {
+      "courseNumber": "20034210",
 
-      "description": "AP English Language and Composition is an introductory college-level composition course. Students cultivate their understanding of writing and rhetorical arguments through reading, analyzing, and writing texts as they explore topics like rhetorical situation, claims and evidence, reasoning and organization, and style.", 
+      "subject": "Science",
 
-      "prerequisites": "FAST Reading Level 4 or 5 and teacher recommendation”, 
+      "title": "AP Physics 1",
 
-      "grades": "11-12", 
+      "description": "AP Physics 1 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, and conservation.",
 
-      "type": "AP", 
+      "prerequisites": "Biology, Chemistry, and teacher recommendation",
 
-“creditEquivalency”: “Passing Score 3: ENC1101 – Composition I (3 credits); 
+      "grades": "10-12",
 
-Passing Score 4-5: ENC 1101 - Composition I AND ENC1102 – Composition II (6 credits)” 
+      "type": "AP",
 
-}, 
+      "creditEquivalency": "Passing Score 3-5: PHY2053 & PHY2053L – General Physics I & Lab (4 credits)"
+    },
 
-{ 
+    {
+      "courseNumber": "20034220",
 
-      "courseNumber": null, 
+      "subject": "Science",
 
-      "subject": "English", 
+      "title": "AP Physics 2",
 
-      "title": "AP English Literature and Composition", 
+      "description": "AP Physics 2 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, conservation, waves, and probability.",
 
-      "description": "AP English Literature and Composition is an introductory college-level literary analysis course. Students cultivate their understanding of literature through reading and analyzing texts as they explore concepts like character, setting, structure, perspective, figurative language, and literary analysis in the context of literary works.", 
+      "prerequisites": "AP Physics I and teacher recommendation",
 
-      "prerequisites": "AICE English Language or AP English Language and teacher recommendation”, 
+      "grades": "11-12",
 
-      "grades": "12", 
+      "type": "AP",
 
-      "type": "AP", 
+      "creditEquivalency": "Passing Score 3-5: PHY2054 & PHY2054L – General Physics II &amp; Lab (4 credits)"
+    },
 
-“creditEquivalency”: “Passing Score 3: LIT2000 – Introduction to Literature (3 credits); 
+    {
+      "courseNumber": null,
 
-Passing Score 4-5: ENC 1101 – Composition I AND LIT2000 – Introduction to Literature (6 credits)” 
+      "subject": "Science",
 
-}, 
+      "title": "AP Physics C: Electricity and Magnetism",
 
- 
+      "description": "AP Physics C: Electricity and Magnetism is a calculus-based, college-level physics course, especially appropriate for students planning to specialize or major in one of the physical sciences or engineering. Students cultivate their understanding of physics through classroom study and activities as well as hands-on laboratory work as they explore concepts like change, force interactions, fields, and conservation.",
 
-{ 
+      "prerequisites": "AP Physics I and teacher recommendation",
 
-      "courseNumber": “20013800”, 
+      "grades": "11-12",
 
-      "subject": "Science", 
+      "type": "AP",
 
-      "title": "AP Environmental Science", 
+      "creditEquivalency": "Passing Score 3: PHY2054 & PHY2054L–General Physics II & Lab (4 credits); Passing Score 4-5: PHY2049 & PHY2049L – General Physics with Calculus II and Lab (5 credits)"
+    },
 
-      "description": "Students cultivate their understanding of the interrelationships of the natural world through inquiry-based lab investigations and field work as they explore concepts like the four Big Ideas; energy transfer, interactions between earth systems, interactions between different species and the environment, and sustainability.", 
+    {
+      "courseNumber": null,
 
-      "prerequisites": "Biology, Chemistry, and teacher recommendation”, 
+      "subject": "Science",
 
-      "grades": "10-12", 
+      "title": "AP Physics C: Mechanics",
 
-      "type": "AP", 
+      "description": "AP Physics C: Mechanics is a calculus-based, college-level physics course, especially appropriate for students planning to specialize or major in one of the physical sciences or engineering. Students cultivate their understanding of physics through classroom study and activities as well as hands-on laboratory work as they explore concepts like change, force interactions, fields, and conservation.",
 
-“creditEquivalency”: “Passing Score 3-5: EVR1009 – Introduction to Environmental Science (3 credits)” 
+      "prerequisites": "AP Physics I and teacher recommendation",
 
-}, 
+      "grades": "11-12",
 
-{ 
+      "type": "AP",
 
-      "courseNumber": null, 
+      "creditEquivalency": "Passing Score 3: PHY2053 & PHY2053L–General Physics II & Lab (4 credits); Passing Score 4-5: PHY2048 & PHY2048L – General Physics with Calculus I and Lab (5 credits)"
+    },
 
-      "subject": "Social Studies", 
+    {
+      "courseNumber": null,
 
-      "title": "AP Human Geography", 
+      "subject": "Math",
 
-      "description": "AP Human Geography is an introductory college-level human geography course. Students cultivate their understanding of human geography through data and geographic analyses as they explore topics like patterns and spatial organization, human impacts and interactions with their environment, and spatial processes and societal changes.”, 
+      "title": "AP Precalculus",
 
-      "prerequisites": "FAST Reading Level 4 or 5”, 
+      "description": "AP Precalculus prepares students for other college-level mathematics and science courses. Through regular practice, students build deep mastery of modeling and functions, and they examine scenarios through multiple representations. The course framework delineates content and skills common to college precalculus courses that are foundational for careers in mathematics, physics, biology, health science, social science, and data science.",
 
-      "grades": "9-12", 
+      "prerequisites": "Algebra II and teacher recommendation",
 
-      "type": "AP", 
+      "grades": "10-12",
 
-“creditEquivalency”: “Passing Score 3-5: GEO2420 – Introduction to Human/Cultural Geography (3 credits)” 
+      "type": "AP",
 
-}, 
+      "creditEquivalency": "Passing Score 3: MAC1140 – Precalculus Algebra (3 credits); Passing Score 4 or 5: MAC1140 – Precalculus Algebra AND MAC1147 - Precalculus Algebra & Trigonometry (6 credits)"
+    },
 
- 
+    {
+      "courseNumber": null,
 
-{ 
+      "subject": "Social Studies",
 
-      "courseNumber": null, 
+      "title": "AP Psychology",
 
-      "subject": "Social Studies", 
+      "description": "AP Psychology is an introductory college-level psychology course. Students cultivate their understanding of the systematic and scientific study of human behavior and mental processes through inquiry-based investigations as they explore concepts like the biological bases of behavior, sensation and perception, learning and cognition, motivation, developmental psychology, testing and individual differences, treatment of abnormal behavior, and social psychology.",
 
-      "title": "AP Macroeconomics", 
+      "prerequisites": "Teacher recommendation",
 
-      "description": "AP Macroeconomics is an introductory college-level macroeconomics course. Students cultivate their understanding of the principles that apply to an economic system as a whole by using principles and models to describe economic situations and predict and explain outcomes with graphs, charts, and data as they explore concepts like economic measurements, markets, macroeconomic models, and macroeconomic policies.”, 
+      "grades": "10-12",
 
-      "prerequisites": "Teacher recommendation”, 
+      "type": "AP",
 
-      "grades": “11-12", 
+      "creditEquivalency": "Passing Score 3-5: PSY2012 – General Psychology (3 credits)"
+    },
 
-      "type": "AP", 
+    {
+      "courseNumber": null,
 
-“creditEquivalency”: “Passing Score 3-5: ECO2013 – Principles of Macroeconomics (3 credits)” 
+      "subject": "Electives",
 
-}, 
+      "title": "AP Spanish Language & Culture",
 
-{ 
+      "description": "AP Spanish Language and Culture is equivalent to an intermediate level college course in Spanish. Students cultivate their understanding of Spanish language and culture by applying interpersonal, interpretive, and presentational modes of communication in real-life situations as they explore concepts related to family and communities, personal and public identities, beauty and aesthetics, science and technology, contemporary life, and global challenges.",
 
-      "courseNumber": “20034210”, 
+      "prerequisites": "Teacher recommendation",
 
-      "subject": "Science", 
+      "grades": "10-12",
 
-      "title": "AP Physics 1", 
+      "type": "AP",
 
-      "description": "AP Physics 1 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, and conservation.”, 
+      "creditEquivalency": "Passing Score 3: SPN2220 – Intermediate Spanish I (4 credits); Passing Score 4-5: SPN2220 – Intermediate Spanish I & SPN2201 - Intermediate Spanish II (7 credits)"
+    },
 
-      "prerequisites": "Biology, Chemistry, and teacher recommendation”, 
+    {
+      "courseNumber": null,
 
-      "grades": “10-12", 
+      "subject": "Social Studies",
 
-      "type": "AP", 
+      "title": "AP U.S. Government & Politics",
 
-“creditEquivalency”: “Passing Score 3-5: PHY2053 &amp; PHY2053L – General Physics I & Lab (4 credits)” 
+      "description": "AP U.S. Government and Politics is an introductory college-level course in U.S. government and politics. Students cultivate their understanding of U.S. government and politics through analysis of data and text-based sources as they explore topics like constitutionalism, liberty and order, civic participation in a representative democracy, competing policy-making interests, and methods of political analysis.",
 
-}, 
+      "prerequisites": "Teacher recommendation",
 
-{ 
+      "grades": "11-12",
 
-      "courseNumber": “20034220”, 
+      "type": "AP",
 
-      "subject": "Science", 
+      "creditEquivalency": "Passing Score 3-5: POS2041 – National Government (3 credits)"
+    },
 
-      "title": "AP Physics 2", 
+    {
+      "courseNumber": null,
 
-      "description": "AP Physics 2 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, conservation, waves, and probability.”, 
+      "subject": "Social Studies",
 
-      "prerequisites": "AP Physics I and teacher recommendation”, 
+      "title": "AP United States History",
 
-      "grades": “11-12", 
+      "description": "AP U.S. History is an introductory college-level U.S. history course. Students cultivate their understanding of U.S. history from c. 1491 CE to the present through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like American and national identity; work, exchange, and technology; geography and the environment; migration and settlement; politics and power; America in the world; American and regional culture; and social structures.",
 
-      "type": "AP", 
+      "prerequisites": "Teacher recommendation",
 
-“creditEquivalency”: “Passing Score 3-5: PHY2054 & PHY2054L – General Physics II &amp; Lab (4 credits)” 
+      "grades": "11-12",
 
-}, 
+      "type": "AP",
 
-{ 
+      "creditEquivalency": "Passing Score 3: AMH2000 – U.S. History (3 credits); Passing Score 4-5: AMH2010 – History of the U.S. to 1877 AND AMH2020 – History of the U.S. since 1877 (6 credits)"
+    },
 
-      "courseNumber": null, 
+    {
+      "courseNumber": null,
 
-      "subject": "Science", 
+      "subject": "Social Studies",
 
-      "title": "AP Physics C: Electricity and Magnetism", 
+      "title": "AP World History: Modern",
 
-      "description": "AP Physics C: Electricity and Magnetism is a calculus-based, college-level physics course, especially appropriate for students planning to specialize or major in one of the physical sciences or engineering. Students cultivate their understanding of physics through classroom study and activities as well as hands-on laboratory work as they explore concepts like change, force interactions, fields, and conservation.”, 
+      "description": "AP World History: Modern is an introductory college-level modern world history course. Students cultivate their understanding of world history from c. 1200 CE to the present through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like humans and the environment, cultural developments and interactions, governance, economic systems, social interactions and organization, and technology and innovation.",
 
-      "prerequisites": "AP Physics I and teacher recommendation”, 
+      "prerequisites": "Teacher recommendation",
 
-      "grades": “11-12", 
+      "grades": "10-12",
 
-      "type": "AP", 
+      "type": "AP",
 
-“creditEquivalency”: “Passing Score 3: PHY2054 & PHY2054L–General Physics II & Lab (4 credits); 
+      "creditEquivalency": "Passing Score 3-5: WOH2040 – World in the 20th Century (3 credits)"
+    },
 
-Passing Score 4-5: PHY2049 & PHY2049L – General Physics with Calculus II and Lab (5 credits)” 
+    {
+      "courseNumber": null,
 
-}, 
+      "subject": "Electives",
 
-{ 
+      "title": "AP Capstone Diploma Program: AP Seminar",
 
-      "courseNumber": null, 
+      "description": "AP Seminar is a foundational course that engages students in cross-curricular conversations that explore the complexities of academic and real-world topics and issues by analyzing divergent perspectives. Students learn to investigate a problem or issue, analyze arguments, compare different perspectives, synthesize information from multiple sources, and work alone and in a group to communicate their ideas.",
 
-      "subject": "Science", 
+      "prerequisites": "Teacher recommendation",
 
-      "title": "AP Physics C: Mechanics", 
+      "grades": "11-12",
 
-      "description": "AP Physics C: Mechanics is a calculus-based, college-level physics course, especially appropriate for students planning to specialize or major in one of the physical sciences or engineering. Students cultivate their understanding of physics through classroom study and activities as well as hands-on laboratory work as they explore concepts like change, force interactions, fields, and conservation.”, 
+      "type": "AP",
 
-      "prerequisites": "AP Physics I and teacher recommendation”, 
+      "creditEquivalency": "Passing Score 3-5: IDS1110 – Interdisciplinary Studies (3 credits)"
+    },
 
-      "grades": “11-12", 
+    {
+      "courseNumber": null,
 
-      "type": "AP", 
+      "subject": "Electives",
 
-“creditEquivalency”: “Passing Score 3: PHY2053 & PHY2053L–General Physics II & Lab (4 credits); 
+      "title": "AP Capstone Diploma Program: AP Research",
 
-Passing Score 4-5: PHY2048 & PHY2048L – General Physics with Calculus I and Lab (5 credits)” 
+      "description": "AP Research allows students to deeply explore an academic topic, problem, issue, or idea of individual interest. Students design, plan, and implement a yearlong investigation to address a research question. Students reflect on their skill development, document their processes, and curate the artifacts of their scholarly work through a process and reflection portfolio.",
 
-}, 
+      "prerequisites": "Teacher recommendation",
 
-{ 
+      "grades": "12",
 
-      "courseNumber": null, 
+      "type": "AP",
 
-      "subject": "Math", 
-
-      "title": "AP Precalculus", 
-
-      "description": "AP Precalculus prepares students for other college-level mathematics and science courses. Through regular practice, students build deep mastery of modeling and functions, and they examine scenarios through multiple representations. The course framework delineates content and skills common to college precalculus courses that are foundational for careers in mathematics, physics, biology, health science, social science, and data science.”, 
-
-      "prerequisites": "Algebra II and teacher recommendation”, 
-
-      "grades": “10-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3: MAC1140 – Precalculus Algebra (3 credits); 
-
-Passing Score 4 or 5: MAC1140 – Precalculus Algebra AND MAC1147 - Precalculus Algebra & Trigonometry (6 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Social Studies", 
-
-      "title": "AP Psychology", 
-
-      "description": "AP Psychology is an introductory college-level psychology course. Students cultivate their understanding of the systematic and scientific study of human behavior and mental processes through inquiry-based investigations as they explore concepts like the biological bases of behavior, sensation and perception, learning and cognition, motivation, developmental psychology, testing and individual differences, treatment of abnormal behavior, and social psychology.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “10-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3-5: PSY2012 – General Psychology (3 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Electives", 
-
-      "title": "AP Spanish Language & Culture", 
-
-      "description": “AP Spanish Language and Culture is equivalent to an intermediate level college course in Spanish. Students cultivate their understanding of Spanish language and culture by applying interpersonal, interpretive, and presentational modes of communication in real-life situations as they explore concepts related to family and communities, personal and public identities, beauty and aesthetics, science and technology, contemporary life, and global challenges.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “10-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3: SPN2220 – Intermediate Spanish I (4 credits); 
-
-Passing Score 4-5: SPN2220 – Intermediate Spanish I & SPN2201 - Intermediate Spanish II (7 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Social Studies", 
-
-      "title": "AP U.S. Government & Politics", 
-
-      "description": “AP U.S. Government and Politics is an introductory college-level course in U.S. government and politics. Students cultivate their understanding of U.S. government and politics through analysis of data and text-based sources as they explore topics like constitutionalism, liberty and order, civic participation in a representative democracy, competing policy-making interests, and methods of political analysis.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “11-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3-5: POS2041 – National Government (3 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Social Studies", 
-
-      "title": "AP United States History", 
-
-      "description": “AP U.S. History is an introductory college-level U.S. history course. Students cultivate their understanding of U.S. history from c. 1491 CE to the present through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like American and national identity; work, exchange, and technology; geography and the environment; migration and settlement; politics and power; America in the world; American and regional culture; and social structures.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “11-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3: AMH2000 – U.S. History (3 credits 
-
-Passing Score 4-5: AMH2010 – History of the U.S. to 1877 AND AMH2020 – History of the U.S. since 1877 (6 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Social Studies", 
-
-      "title": "AP World History: Modern", 
-
-      "description": “AP World History: Modern is an introductory college-level modern world history course. Students cultivate their understanding of world history from c. 1200 CE to the present through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like humans and the environment, cultural developments and interactions, governance, economic systems, social interactions and organization, and technology and innovation.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “10-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3-5: WOH2040 – World in the 20th Century (3 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Electives", 
-
-      "title": "AP Capstone Diploma Program: AP Seminar", 
-
-      "description": “AP Seminar is a foundational course that engages students in cross-curricular conversations that explore the complexities of academic and real-world topics and issues by analyzing divergent perspectives. Students learn to investigate a problem or issue, analyze arguments, compare different perspectives, synthesize information from multiple sources, and work alone and in a group to communicate their ideas.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “11-12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3-5: IDS1110 – Interdisciplinary Studies (3 credits)” 
-
-}, 
-
-{ 
-
-      "courseNumber": null, 
-
-      "subject": "Electives", 
-
-      "title": "AP Capstone Diploma Program: AP Research", 
-
-      "description": “AP Research allows students to deeply explore an academic topic, problem, issue, or idea of individual interest. Students design, plan, and implement a yearlong investigation to address a research question. Students reflect on their skill 
-
-development, document their processes, and curate the artifacts of their scholarly work through a process and reflection portfolio.”, 
-
-      "prerequisites": "Teacher recommendation”, 
-
-      "grades": “12", 
-
-      "type": "AP", 
-
-“creditEquivalency”: “Passing Score 3-5: IDS1350 – Interdisciplinary Studies (3 credits)” 
-
-}, 
-
- 
-    
+      "creditEquivalency": "Passing Score 3-5: IDS1350 – Interdisciplinary Studies (3 credits)"
+    }
   ]
 }
