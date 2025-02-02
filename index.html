@@ -1,30 +1,42 @@
 <!DOCTYPE html>
+
+
 <html lang="en">
+  
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0" />
+    
     <meta
       name="keywords"
-      content="nova, high, school, course, courses, catalog, curriculum, selection , guide, davie, florida"
-    />
-
-    <meta name="google-site-verification" content="7Rm3i1vANIPvdUKrHQHQ7kP35k5d4H61FtW1kTJfH-0" />
+      content="nova, high, school, course, courses, catalog, curriculum, guide, davie, florida" />
+    
+    <meta name="google-site-verification" 
+          content="7Rm3i1vANIPvdUKrHQHQ7kP35k5d4H61FtW1kTJfH-0" />
     
     <meta
       name="description"
       content="Nova High School's interactive course catalog features detailed descriptions, 
                    prerequisites, and filters to simplify course selection. 
-                   The user-friendly website is built with HTML5, CSS3, and JavaScript ES2023."
-    />
+                   The user-friendly website is built with HTML5, CSS3, and JavaScript ES2023." />
+    
     <title>Nova High School Course Catalog</title>
+    
     <link rel="stylesheet" href="style.css" />
   </head>
 
+  
   <body>
+    
+    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
+    
     <div class="">
       <h1>Nova High Course Catalog</h1>
 
       <div class="filters">
+        
         <label
           >Subject:
           <select id="subjectFilter">
@@ -34,8 +46,10 @@
             <option value="Social Studies">Social Studies</option>
             <option value="Science">Science</option>
             <option value="Electives">Electives</option>
+            <option value="Foreign Language">Foreign Language</option>
           </select>
         </label>
+        
         <label
           >Type:
           <select id="typeFilter">
@@ -46,17 +60,23 @@
             <option value="Regular">Regular</option>
           </select>
         </label>
+        
         <label
           >Search courses:
           <input type="text" id="searchFilter" placeholder="Keyword" />
         </label>
+        
       </div>
 
+      
       <div class="course-grid" id="courseGrid">
         <!-- Courses show up here -->
       </div>
+      
     </div>
 
+    
+    
     <!-- Footer -->
     <footer>
       <div class="footer-bottom">
@@ -109,8 +129,11 @@
       </div>
     </footer>
 
+    
+    
     <!--     ECMAScript 2023 -->
     <script src="script.js" defer></script>
     <noscript>This browser version does not support JavaScript.</noscript>
+    
   </body>
 </html>
