@@ -1,16 +1,6 @@
 {
   "courses": [
     {
-      "courseNumber": "20033700",
-      "subject": "Science",
-      "title": "AP Chemistry",
-      "description": "Advanced Placement Chemistry will provide students with a college level course in chemistry and will prepare the student to seek credit and/or appropriate placement in college chemistry courses. Topics will include but not be limited to: structure of matter, states of matter, chemical reactions, and descriptive chemistry.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
-      "prerequisites": "Completed a preparatory Chemistry course and Algebra 1.",
-      "grades": "10-12",
-      "type": "AP",
-      "creditEquivalency": ""
-    },
-    {
       "courseNumber": "00000000",
       "subject": "Math",
       "title": "Algebra 1",
@@ -29,7 +19,7 @@
       "type": "Honors"
     },
     {
-      "courseNumber": "00000000",
+      "courseNumber": "21093710",
       "subject": "Social Studies",
       "title": "AICE European History AS Level",
       "description": "Students will study modern Europe from 1750-1921. Topics include France (1774-1814), the Industrial Revolution in Britain (1750–1850), liberalism and nationalism in Germany (1815–71), and the Russian Revolution (1894–1921). This course satisfies World History credit.",
@@ -39,7 +29,7 @@
       "creditEquivalency": ""
     },
     {
-      "courseNumber": "00000000",
+      "courseNumber": "2400300L",
       "subject": "Electives",
       "title": "Latinos in Action 1",
       "description": "Latinos in Action 1 seeks to improve the linguistic, social, and cognitive development of Latino students while having them serve as role models, mentors, and tutors for their younger peers and elementary school aged students. Aligned with the mission to empower Latino youth through culture, service, leadership, and education, the program focuses on cross-age tutoring and a college readiness curriculum to help students graduate from college.",
@@ -49,470 +39,714 @@
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "01093500",
       "subject": "Electives",
-
       "title": "AP 2-D Art",
-
       "description": "AP 2-D Art and Design is an introductory college-level two-dimensional design course. Students refine and apply 2-D skills to ideas they develop throughout the course.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: ART1201C – 2D Design (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "01093600",
       "subject": "Electives",
-
       "title": "AP 3-D Art",
-
       "description": "AP 3-D Art and Design is an introductory college-level three-dimensional design course. Students refine and apply 3-D skills to ideas they develop throughout the course.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: ART1203C – 3D Design (3 credits)"
     },
 
     {
       "courseNumber": "20003400",
-
-      "subject": "Electives",
-
+      "subject": "Science",
       "title": "AP Biology",
-
       "description": "AP Biology is an introductory college-level biology course. Students cultivate their understanding of biology through inquiry-based investigations as they explore topics like evolution, energetics, information storage and transfer, and system interactions.",
-
       "prerequisites": "Biology, Chemistry, and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: BSC1005 & BSC1005L – Biological Principles and Lab (4 credits); Passing Score 4: BSC2010 & BSC2010L – Introduction to Biology I and Lab (4 credits); Passing Score 5: BSC2010 & BSC2010L - Introduction to Biology I & Lab AND BSC2011 & BSC2011L - Introduction to Biology II & Lab (8 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "12023100",
       "subject": "Math",
-
       "title": "AP Calculus AB",
-
       "description": "AP Calculus AB is an introductory college-level calculus course. Students cultivate their understanding of differential and integral calculus through engaging with real-world problems represented graphically, numerically, analytically, and verbally and using definitions and theorems to build arguments and justify conclusions as they explore concepts like change, limits, and the analysis of functions.",
-
       "prerequisites": "Precalculus and teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
       "creditEquivalency": "Passing Score 3-5: MAC2311 – Calculus & Analytical Geometry I (5 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "12023200",
       "subject": "Math",
-
       "title": "AP Calculus BC",
-
       "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.",
-
       "prerequisites": "Biology, Chemistry, and teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "20033700",
       "subject": "Science",
-
       "title": "AP Chemistry",
-
       "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.",
-
       "prerequisites": "Biology, Chemistry, and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "02003200",
       "subject": "Electives",
-
       "title": "AP Computer Science A",
-
       "description": "AP Computer Science A is an introductory college-level computer science course. Students cultivate their understanding of coding through analyzing, writing, and testing code as they explore concepts like modularity, variables, and control structures.",
-
       "prerequisites": "Advanced IT Honors or equivalent course and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: CGS1060C – Computer & Internet Literacy (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "0200335C",
       "subject": "Electives",
-
       "title": "AP Computer Science Principles",
-
       "description": "AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs.",
-
       "prerequisites": "Advanced IT Honors or equivalent course and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: COP1000C – Introduction to Computer Programming (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "01043000",
       "subject": "Electives",
-
       "title": "AP Drawing",
-
       "description": "AP Drawing is an introductory college-level drawing course. Students refine and apply drawing skills to ideas they develop throughout the course.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: ART1300C – Drawing I (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "10014200",
       "subject": "English",
-
       "title": "AP English Language and Composition",
-
       "description": "AP English Language and Composition is an introductory college-level composition course. Students cultivate their understanding of writing and rhetorical arguments through reading, analyzing, and writing texts as they explore topics like rhetorical situation, claims and evidence, reasoning and organization, and style.",
-
       "prerequisites": "FAST Reading Level 4 or 5 and teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalenc": "Passing Score 3: ENC1101 – Composition I (3 credits); Passing Score 4-5: ENC 1101 - Composition I AND ENC1102 – Composition II (6 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "10014300",
       "subject": "English",
-
       "title": "AP English Literature and Composition",
-
       "description": "AP English Literature and Composition is an introductory college-level literary analysis course. Students cultivate their understanding of literature through reading and analyzing texts as they explore concepts like character, setting, structure, perspective, figurative language, and literary analysis in the context of literary works.",
-
       "prerequisites": "AICE English Language or AP English Language and teacher recommendation",
-
       "grades": "12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: LIT2000 – Introduction to Literature (3 credits); Passing Score 4-5: ENC 1101 – Composition I AND LIT2000 – Introduction to Literature (6 credits)"
     },
 
     {
       "courseNumber": "20013800",
-
       "subject": "Science",
-
       "title": "AP Environmental Science",
-
       "description": "Students cultivate their understanding of the interrelationships of the natural world through inquiry-based lab investigations and field work as they explore concepts like the four Big Ideas; energy transfer, interactions between earth systems, interactions between different species and the environment, and sustainability.",
-
       "prerequisites": "Biology, Chemistry, and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: EVR1009 – Introduction to Environmental Science (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "21034000",
       "subject": "Social Studies",
-
       "title": "AP Human Geography",
-
       "description": "AP Human Geography is an introductory college-level human geography course. Students cultivate their understanding of human geography through data and geographic analyses as they explore topics like patterns and spatial organization, human impacts and interactions with their environment, and spatial processes and societal changes.",
-
       "prerequisites": "FAST Reading Level 4 or 5",
-
       "grades": "9-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: GEO2420 – Introduction to Human/Cultural Geography (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "21023700",
       "subject": "Social Studies",
-
       "title": "AP Macroeconomics",
-
       "description": "AP Macroeconomics is an introductory college-level macroeconomics course. Students cultivate their understanding of the principles that apply to an economic system as a whole by using principles and models to describe economic situations and predict and explain outcomes with graphs, charts, and data as they explore concepts like economic measurements, markets, macroeconomic models, and macroeconomic policies.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: ECO2013 – Principles of Macroeconomics (3 credits)"
     },
 
     {
       "courseNumber": "20034210",
-
       "subject": "Science",
-
       "title": "AP Physics 1",
-
       "description": "AP Physics 1 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, and conservation.",
-
       "prerequisites": "Biology, Chemistry, and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: PHY2053 & PHY2053L – General Physics I & Lab (4 credits)"
     },
 
     {
       "courseNumber": "20034220",
-
       "subject": "Science",
-
       "title": "AP Physics 2",
-
       "description": "AP Physics 2 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, conservation, waves, and probability.",
-
       "prerequisites": "AP Physics I and teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: PHY2054 & PHY2054L – General Physics II &amp; Lab (4 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "20034300",
       "subject": "Science",
-
       "title": "AP Physics C: Electricity and Magnetism",
-
       "description": "AP Physics C: Electricity and Magnetism is a calculus-based, college-level physics course, especially appropriate for students planning to specialize or major in one of the physical sciences or engineering. Students cultivate their understanding of physics through classroom study and activities as well as hands-on laboratory work as they explore concepts like change, force interactions, fields, and conservation.",
-
       "prerequisites": "AP Physics I and teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: PHY2054 & PHY2054L–General Physics II & Lab (4 credits); Passing Score 4-5: PHY2049 & PHY2049L – General Physics with Calculus II and Lab (5 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "20034250",
       "subject": "Science",
-
       "title": "AP Physics C: Mechanics",
-
       "description": "AP Physics C: Mechanics is a calculus-based, college-level physics course, especially appropriate for students planning to specialize or major in one of the physical sciences or engineering. Students cultivate their understanding of physics through classroom study and activities as well as hands-on laboratory work as they explore concepts like change, force interactions, fields, and conservation.",
-
       "prerequisites": "AP Physics I and teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: PHY2053 & PHY2053L–General Physics II & Lab (4 credits); Passing Score 4-5: PHY2048 & PHY2048L – General Physics with Calculus I and Lab (5 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "1202340A",
       "subject": "Math",
-
       "title": "AP Precalculus",
-
       "description": "AP Precalculus prepares students for other college-level mathematics and science courses. Through regular practice, students build deep mastery of modeling and functions, and they examine scenarios through multiple representations. The course framework delineates content and skills common to college precalculus courses that are foundational for careers in mathematics, physics, biology, health science, social science, and data science.",
-
       "prerequisites": "Algebra II and teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: MAC1140 – Precalculus Algebra (3 credits); Passing Score 4 or 5: MAC1140 – Precalculus Algebra AND MAC1147 - Precalculus Algebra & Trigonometry (6 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "21073500",
       "subject": "Social Studies",
-
       "title": "AP Psychology",
-
       "description": "AP Psychology is an introductory college-level psychology course. Students cultivate their understanding of the systematic and scientific study of human behavior and mental processes through inquiry-based investigations as they explore concepts like the biological bases of behavior, sensation and perception, learning and cognition, motivation, developmental psychology, testing and individual differences, treatment of abnormal behavior, and social psychology.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: PSY2012 – General Psychology (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
-      "subject": "Electives",
-
+      "courseNumber": "07084000",
+      "subject": "Foreign Language",
       "title": "AP Spanish Language & Culture",
-
       "description": "AP Spanish Language and Culture is equivalent to an intermediate level college course in Spanish. Students cultivate their understanding of Spanish language and culture by applying interpersonal, interpretive, and presentational modes of communication in real-life situations as they explore concepts related to family and communities, personal and public identities, beauty and aesthetics, science and technology, contemporary life, and global challenges.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: SPN2220 – Intermediate Spanish I (4 credits); Passing Score 4-5: SPN2220 – Intermediate Spanish I & SPN2201 - Intermediate Spanish II (7 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "21064300",
       "subject": "Social Studies",
-
       "title": "AP U.S. Government & Politics",
-
       "description": "AP U.S. Government and Politics is an introductory college-level course in U.S. government and politics. Students cultivate their understanding of U.S. government and politics through analysis of data and text-based sources as they explore topics like constitutionalism, liberty and order, civic participation in a representative democracy, competing policy-making interests, and methods of political analysis.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: POS2041 – National Government (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "21003300",
       "subject": "Social Studies",
-
       "title": "AP United States History",
-
       "description": "AP U.S. History is an introductory college-level U.S. history course. Students cultivate their understanding of U.S. history from c. 1491 CE to the present through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like American and national identity; work, exchange, and technology; geography and the environment; migration and settlement; politics and power; America in the world; American and regional culture; and social structures.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3: AMH2000 – U.S. History (3 credits); Passing Score 4-5: AMH2010 – History of the U.S. to 1877 AND AMH2020 – History of the U.S. since 1877 (6 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "21094200",
       "subject": "Social Studies",
-
       "title": "AP World History: Modern",
-
       "description": "AP World History: Modern is an introductory college-level modern world history course. Students cultivate their understanding of world history from c. 1200 CE to the present through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like humans and the environment, cultural developments and interactions, governance, economic systems, social interactions and organization, and technology and innovation.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "10-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: WOH2040 – World in the 20th Century (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "17005000",
       "subject": "Electives",
-
-      "title": "AP Capstone Diploma Program: AP Seminar",
-
+      "title": "AP Capstone Seminar",
       "description": "AP Seminar is a foundational course that engages students in cross-curricular conversations that explore the complexities of academic and real-world topics and issues by analyzing divergent perspectives. Students learn to investigate a problem or issue, analyze arguments, compare different perspectives, synthesize information from multiple sources, and work alone and in a group to communicate their ideas.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "11-12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: IDS1110 – Interdisciplinary Studies (3 credits)"
     },
 
     {
-      "courseNumber": null,
-
+      "courseNumber": "17005100",
       "subject": "Electives",
-
-      "title": "AP Capstone Diploma Program: AP Research",
-
+      "title": "AP Capstone Research",
       "description": "AP Research allows students to deeply explore an academic topic, problem, issue, or idea of individual interest. Students design, plan, and implement a yearlong investigation to address a research question. Students reflect on their skill development, document their processes, and curate the artifacts of their scholarly work through a process and reflection portfolio.",
-
       "prerequisites": "Teacher recommendation",
-
       "grades": "12",
-
       "type": "AP",
-
       "creditEquivalency": "Passing Score 3-5: IDS1350 – Interdisciplinary Studies (3 credits)"
+    },
+    {
+      "courseNumber": "12003200",
+      "subject": "Math",
+      "title": "Algebra 1 Honors",
+      "description": "In Algebra 1 Honors instructional time will emphasize five areas:(1) performing operations with polynomials and radicals, and extending the Laws of Exponents to include rational exponents;(2) extending understanding of functions to linear, quadratic and exponential functions and using them to model and analyze real-world relationships;(3) solving quadratic equations in one variable and systems of linear equations and inequalities in two variables;(4) building functions, identifying their key features and representing them in various ways and(5) representing and interpreting categorical and numerical data with one and two variables.",
+      "prerequisites": "Level 4 – 5 on FAST Mathematics Grade 8",
+      "grades": "9",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "1206310A",
+      "subject": "Math",
+      "title": "Geometry",
+      "description": "In Geometry, instructional time will emphasize five areas: (1) proving and applying relationships and theorems involving two-dimensional figures using Euclidean geometry and coordinate geometry; (2) establishing congruence and similarity using criteria from Euclidean geometry and using rigid transformations; (3) extending knowledge of geometric measurement to two-dimensional figures and three-dimensional figures; (4) creating and applying equations of circles in the coordinate plane and (5)developing an understanding of right triangle trigonometry.",
+      "prerequisites": "Algebra 1",
+      "grades": "9-10",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "12063200",
+      "subject": "Math",
+      "title": "Geometry Honors",
+      "description": "In Geometry Honors, instructional time will emphasize five areas: (1) proving and applying relationships and theorems involving two-dimensional figures using Euclidean geometry and coordinate geometry; (2) establishing congruence and similarity using criteria from Euclidean geometry and using rigid transformations; (3) extending knowledge of geometric measurement to two-dimensional figures and three-dimensional figures; (4) creating and applying equations of circles in the coordinate plane and (5) developing an understanding of right triangle trigonometry.",
+      "prerequisites": "Algebra 1 Honors",
+      "grades": "9-10",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "12073500",
+      "subject": "Math",
+      "title": "Math for College Liberal Arts",
+      "description": "In Mathematics for College Liberal Arts, instructional time will emphasize five areas: (1) analyzing and applying linear and exponential functions within a real-world context; (2) utilizing geometric concepts to solve real-world problems; (3) extending understanding of probability theory; (4) representing and interpreting univariate and bivariate data and (5) developing understanding of logic and set theory.",
+      "prerequisites": "Algebra 1",
+      "grades": "11-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "12007000",
+      "subject": "Math",
+      "title": "Math for College Algebra",
+      "description": "In Mathematics for College Algebra, instructional time will emphasize five areas: (1) developing fluency with the Laws of Exponents with numerical and algebraic expressions; (2) extending arithmetic operations with algebraic expressions to include rational and polynomial expressions; (3) solving one-variable exponential, logarithmic, radical and rational equations and interpreting the viability of solutions in real-world contexts; (4) modeling with and applying linear, quadratic, absolute value, exponential, logarithmic and piecewise functions and systems of linear equations and inequalities; (5) extending knowledge of functions to include inverse and composition.",
+      "prerequisites": null,
+      "grades": "11-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "12003400",
+      "subject": "Math",
+      "title": "Algebra 2 Honors",
+      "description": "In Algebra 2 Honors, instructional time will emphasize six areas: (1) developing understanding of the complex number system, including complex numbers as roots of polynomial equations; (2) extending arithmetic operations with algebraic expressions to include polynomial division, radical and rational expressions; (3) graphing and analyzing functions including polynomials, absolute value, radical, rational, exponential and logarithmic; (4) extending systems of equations and inequalities to include non-linear expressions; (5)building functions using compositions, inverses and transformations and (6) developing understanding of probability concepts.",
+      "prerequisites": "Geometry Honors",
+      "grades": "9-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "12103000",
+      "subject": "Math",
+      "title": "Probability and Statistics Honors",
+      "description": "In Probability and Statistics Honors, instructional time will emphasize four areas: (1) creating and interpreting data displays for univariate and bivariate categorical and numerical data; (2) comparing and making observations about populations using statistical data, including confidence intervals and hypothesis testing; (3) extending understanding of probability and probability distributions and (4) developing an understanding of methods for collecting statistical data, including randomized trials.",
+      "prerequisites": " Algebra 2 or Algebra 2 Honors",
+      "grades": "11-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "12023400",
+      "subject": "Math",
+      "title": "Precalculus Honors",
+      "description": "In Precalculus Honors, instructional time will emphasize six areas: (1) extending right triangle trigonometry to unit circle trigonometry and trigonometric functions; (2) extending understanding of functions to trigonometric; (3) developing understanding of conic sections; (4) representing and performing operations with complex numbers and vectors in the coordinate plane; (5) extending understanding of relations in the plane using parametric representations, including polar coordinates and (6) analyzing arithmetic and geometric sequences and series. ",
+      "prerequisites": "Algebra 2",
+      "grades": "10-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "12023000",
+      "subject": "Math",
+      "title": "Calculus Honors",
+      "description": "In Calculus Honors, instructional time will emphasize four areas: (1) developing understanding of limits and continuity of functions; (2) finding derivatives and applying them to motions, slopes, related rates and optimizations; (3) applying limits and derivatives to graph and analyze functions and (4) evaluating integrals and applying them to areas, volumes, average values and differential equations. ",
+      "prerequisites": "Precalculus",
+      "grades": "11-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "2001340",
+      "subject": "Science",
+      "title": "Environmental Science",
+      "description": "This course provides concepts basic to Earth, its materials, processes, history and environment in space.  Topics will include but not be limited to:  origins of the universe and solar system, Earth-moon system, minerals and rocks, divisions of the earth and land forms, hydrological cycle, and weather.  It will also cover basic chemistry and physics principles that are relevant to the study of the dynamic Earth processes. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "2400300L",
+      "subject": "Electives",
+      "title": "Latinos in Action 1",
+      "description": "Latinos in Action 1 seeks to improve the linguistic, social, and cognitive development of Latino students while having them serve as role models, mentors, and tutors for their younger peers and elementary school aged students. Aligned with the mission to empower Latino youth through culture, service, leadership, and education, the program focuses on cross-age tutoring and a college readiness curriculum to help students graduate from college.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "2003310",
+      "subject": "Science",
+      "title": "Physical Science",
+      "description": " This course is designed as an interactive introduction to basic physics and chemistry. Students will first explore the movement of objects. Topics in segment one include describing motion, predicting motion using Newton’s laws, and the fundamental forces behind movement. Students will deepen their understanding of energy through exploring the fundamental principles of electricity and magnetism and the nature and use of sound and electromagnetic waves. The second segment of the course explores the matter around us on the atomic level, the nature of chemical bonding, and the reactions that make new substances. This course is designed to serve as a foundation for the study of the physical sciences: physics and chemistry. Students use scientific inquiry and higher-order problem solving as they explore these topics through interactive simulations and both virtual and hands-on experiences. In addition, technology, engineering, and mathematics (STEM) concepts are integrated throughout the course. Collaborative projects and real-world assessments aid the student in ultimately demonstrating an understanding of the importance of the physical and chemical properties of the world around them.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "02003350",
+      "subject": "Elective",
+      "title": "Computer Science AS Level",
+      "description": "The aims of this course are to enable students to develop computational thinking skills, an understanding of the main principles of solving problems using computers, the component parts of computer systems and how they interrelate, including software, data, hardware, communication and people, the different methods of communication and the functionality of networks and the internet, and the skills necessary to apply this understanding to develop computer-based solutions to problems.",
+      "prerequisites": "Advanced IT Honors or equivalent course",
+      "grades": "10-12",
+      "creditEquivalency": "CGS1060C – Computer &amp; Internet Literacy (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "02004600",
+      "subject": "Elective",
+      "title": "Design and Technology AS Level",
+      "description": " This course encourages candidates to be innovative and creative and to develop their ability to design high-quality products. Through their studies, candidates will: develop an awareness of the significance of design and technology to society and learn more about production processes and industrial practices. ",
+      "prerequisites": "Introduction to Engineering Honors",
+      "grades": "10-12",
+      "creditEquivalency": "ETI1482C – Introduction to Industrial Engineering (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "20013810",
+      "subject": "Science",
+      "title": "Environmental Management AS Level (Group 1 or 3)",
+      "description": " This course develops scientific knowledge and understanding of global environmental issues and theories, and of the policies and strategies for managing the environment. It covers the sustainable use and management of resources, and strategies that aim to protect the environment. ",
+      "prerequisites": "Biology and Chemistry:",
+      "grades": "10-12",
+      "creditEquivalency": "EVR1001 – Introduction to Environmental Science (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "20025150",
+      "subject": "Science",
+      "title": "Marine Science AS Level",
+      "description": "This course provides a coherent and stimulating introduction to the science of the marine environment. The emphasis throughout is on the understanding of concepts and the application of ideas to new contexts. ",
+      "prerequisites": "Biology and Chemistry",
+      "grades": "10-12",
+      "creditEquivalency": "OCE1001 – Introductory Oceanography (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": null,
+      "subject": "Elective",
+      "title": " Psychology AS & A Level (Group 1 or 3)",
+      "description": " The course aims to encourage an interest in and appreciation of psychology through an exploration of the ways in which psychology is conducted. This exploration includes a review of a number of important research studies and an opportunity to look at the ways in which psychology has been applied. ",
+      "prerequisites": "AS Level: English General Paper; A Level: AS Psychology",
+      "grades": "10-12",
+      "creditEquivalency": "AS Level: PSY2012 – General Psychology (3 credits); A Level: PSY2043 – Advanced General Psychology (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "30260200",
+      "subject": "Elective",
+      "title": "Sport & Physical Education AS Level (Group 1 or 3) ",
+      "description": " This course develops student’s knowledge and understanding of the theories underpinning performance and the acquisition and development of motor skills in physical activity and sport. They also effectively perform a range of sports skills and techniques and select and apply tactics and strategies and understand and appreciate safe practice in physical activity and sport and the benefits of physical exercise for health, fitness, and well-being. ",
+      "prerequisites": " Biology and Chemistry",
+      "grades": "10-12",
+      "creditEquivalency": "PET1001 – Physical Education Theory (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "2003310",
+      "subject": "Science",
+      "title": "Physical Science",
+      "description": "This course is designed as an interactive introduction to basic physics and chemistry. Students will first explore the movement of objects. Topics in segment one include describing motion, predicting motion using Newton’s laws, and the fundamental forces behind movement. Students will deepen their understanding of energy through exploring the fundamental principles of electricity and magnetism and the nature and use of sound and electromagnetic waves. The second segment of the course explores the matter around us on the atomic level, the nature of chemical bonding, and the reactions that make new substances. This course is designed to serve as a foundation for the study of the physical sciences: physics and chemistry. Students use scientific inquiry and higher-order problem solving as they explore these topics through interactive simulations and both virtual and hands-on experiences. In addition, technology, engineering, and mathematics (STEM) concepts are integrated throughout the course. Collaborative projects and real-world assessments aid the student in ultimately demonstrating an understanding of the importance of the physical and chemical properties of the world around them.",
+      "grades": "9-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "10th Grade: 2000310H 11th & 12th Grade: 2000310P",
+      "subject": "Science",
+      "title": "Biology I",
+      "description": "Biology I will provide opportunities to students for general exploratory experiences and activities in the fundamental concepts of life. Topics will include but not be limited to: the scientific method, measurements, laboratory apparatus usage and safety, cell biology and cell reproduction, principles of genetics, biological change through time, classification, microbiology, structure and function of plants and animals, structure and function of the human body, and ecology. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "10-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "20025100",
+      "subject": "Science",
+      "title": "Marine Science Pre-AP",
+      "description": "The purpose of this course is to provide an advanced overview of the unique characteristics of the marine environment by exploring the physical and biological characteristics of seawater. Topics will include the ocean’s present and potential resources, marine biology interactions with technology an society, and interrelationships between man and the ocean environment. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "10-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "20003600",
+      "subject": "Science",
+      "title": "Anatomy and Physiology Pre-AP",
+      "description": "This highly rigorous, accelerated course will provide students with advanced exploratory activities in the structure and function of the components of the human body. Topics will include, but not be limited to: anatomical terminology, cells and tissues, systems of the body, disease and inheritance. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "10-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "9th Grade 20003200 10th Grade: 2000320H 11th & 12th Grade: 2000320P",
+      "subject": "Science",
+      "title": "Biology I Pre-AP",
+      "description": "This highly rigorous, accelerated course will provide opportunities to students for general exploratory experiences and activities in the fundamental concepts of life. Topics will include but not be limited to: the scientific method, laboratory apparatus usage and safety, biochemistry, cell biology, genetics, botany, zoology, human anatomy and physiology, and ecological relationships. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "9-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "20033400",
+      "subject": "Science",
+      "title": "Chemistry",
+      "description": "Chemistry I will provide opportunities for students to study the composition, properties, and changes associated with matter. Topics will include but not be limited to: classification and structure of matter, atomic theory, the periodic table, bonding, chemical formulas, chemical reactions, balanced equations, behavior of gases, physical changes, acids, bases, and salts. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "9-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "10th Grade: 2003350H 11th & 12th Grade: 2003350P",
+      "subject": "Science",
+      "title": "Chemistry I Pre-AP",
+      "description": "Chemistry I Pre-AP will provide opportunities for students to study the composition, properties, and changes associated with matter. Topics will include but not be limited to: heat, changes of matter, atomic structure, bonding, the periodic tables, formulas, equations, mole concept, gas laws, reactions, solutions, equilibrium systems, and oxidation reduction reactions. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Completed Algebra 1",
+      "grades": "10-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "20003400",
+      "subject": "Science",
+      "title": "AP Biology",
+      "description": "Advanced Placement Biology will provide students with a college level course in biology and will prepare the student to seek credit and/or appropriate placement in college biology courses. Topics will include but not be limited to: molecular and cellular biology, organism biology, and population biology.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Completed a preparatory Biology course.",
+      "grades": "11-12",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "20033800",
+      "subject": "Science",
+      "title": "Physics I",
+      "description": "Physics I will provide opportunities to student for an introductory study of the theories and laws governing the interaction of matter, energy, and the forces of nature. Topics will include but not be limited to: kinematics, dynamics, energy, work and power, heat, thermodynamics, wave characteristics, light, electricity, magnetism, and nuclear physics.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS)  for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills. Special Note: NCAA.",
+      "grades": "10-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "20033900",
+      "subject": "Science",
+      "title": "Physics I Pre-AP",
+      "description": "Physics I Honors will provide students with an in depth study of the theories and laws governing the interaction of matter, energy, and the forces of nature. Topics will include but not be limited to: kinematics, dynamics, energy, work, power, heat and thermodynamics, wave characteristics, light, electricity, magnetism, and nuclear physics. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "10-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "20034210",
+      "subject": "Science",
+      "title": "AP Physics I",
+      "description": "AP Physics 1 is an algebra-based, introductory college-level physics course that explores topics such as Newtonian mechanics (including rotational motion); work, energy, and power; mechanical waves and sound; and introductory, simple circuits. Through inquiry based learning, students will develop scientific critical thinking and reasoning skills.  Students explore principles of Newtonian mechanics (including rotational motion); work,  energy, and power; mechanical waves and sound; and introductory, simple circuits. The course is based on six Big Ideas, which encompass core scientific principles, theories, and processes that cut across traditional boundaries and provide a broad way of thinking about the physical world.",
+      "prerequisites": "Completion of Algebra II",
+      "grades": "11-12",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "20034220",
+      "subject": "Science",
+      "title": "AP Physics II",
+      "description": "AP Physics 2 is an algebra-based, introductory college-level physics course that explores topics such as fluid statics and dynamics; thermodynamics with kinetic theory; PV diagrams and probability; electrostatics; electrical circuits with capacitors; magnetic fields; electromagnetism; physical and geometric optics; and quantum, atomic, and nuclear physics. Through inquiry-based learning, students will develop scientific critical thinking and reasoning skills.  Students explore principles of fluids, thermodynamics, electricity, magnetism, optics, and topics in modern physics. The course is based on seven Big Ideas, which encompass core scientific principles, theories, and processes that cut across traditional boundaries and provide a broad way of thinking about the physical world.",
+      "prerequisites": "Completion of Algebra II",
+      "grades": "11-12",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "20034300",
+      "subject": "Science",
+      "title": "AP Physics C",
+      "description": "Advanced Placement Physics (C) will provide students with a college level course in physics and will prepare students to seek credit and/or appropriate placement in college physics courses. Topics will include but not be limited to: (a) mechanics-kinetics, Newton’s Laws of Motion, work, energy, power, systems of particles, statics, rotational motion, oscillations gravitation; and, (b) electricity and magnetism, electrostatics, electric current and circuits, capacitance, magnetostatics, and electromagnetism.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Completed a preparatory Physics course and has completed or co-enrolled in Calculus.",
+      "grades": "11-12",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "20033700",
+      "subject": "Science",
+      "title": "AP Chemistry",
+      "description": "Advanced Placement Chemistry will provide students with a college level course in chemistry and will prepare the student to seek credit and/or appropriate placement in college chemistry courses. Topics will include but not be limited to: structure of matter, states of matter, chemical reactions, and descriptive chemistry.  Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus, and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Completed a preparatory Chemistry course and Algebra 1.",
+      "grades": "10-12",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "20024801",
+      "subject": "Science",
+      "title": "Forensics I",
+      "description": "The purpose of this course is to provide opportunities to develop knowledge of biology and physical sciences through forensic science, and enable students to associate this knowledge with real-life applications - and at a high level of rigor and content. The content should include, but not be limited to, the following: implementation of scientific knowledge, methodology, and historical context to solve problems, use of laboratory technologies, chemical basis of heredity and biotechnology, connections between the sciences and technology, society, and the environment, matter, energy, and the processes of life, medical technologies and careers, forces and motion and the nature of matter. Laboratory investigations of selected topics in the content, which also include use of the scientific method, measurement, laboratory apparatus, and safety procedures, are an integral part of this course. Inquiry into current technology and applications of scientific principles and their relationship to society and the environment is encouraged. A science research project, science fair project or science research paper is recommended. It is recommended that all honors courses participate in some form or level of scientific research and application. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "grades": "11-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "20024900",
+      "subject": "Science",
+      "title": "Forensics II",
+      "description": "The purpose of this course is to provide opportunities to expand student knowledge of biology and physical sciences in a second year of forensics, and enable students to associate this knowledge with real-life applications. The content  should include, but not be limited to, the following: implementation of scientific knowledge,  methodology, and historical context to solve problems, use of laboratory technologies, chemical basis of heredity, DNA fingerprinting, and biotechnology, connections between the sciences  and technology, society, and the environment, matter, energy, and the processes of life, investigative technologies and careers, forces and motion, the nature of matter. Laboratory activities that include the use of the scientific method, measurement, laboratory apparatus and safety are an integral part of this course. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Completed Forensics I",
+      "grades": "11-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "84003200",
+      "subject": "Science",
+      "title": "Medical Skills and Services",
+      "description": "This course provides students an introduction to health careers as well as practical competencies related to health decisions all individuals will make during their lifetime.  Content includes common health skills, information related to disease prevention and maintenance of health, safety practices in carrying out medical instructions, adapting health principles to the home, legal aspects for the health consumer, and exploration of services provided by health professionals and community health agencies. Content area literacy has been embedded into the frameworks to ensure that literacy instruction is shared across the disciplines through enhanced reading, comprehension and evaluation skills. Common Core State Standards are used to ensure the level of this CTE program coincides with what students need for future employment, including adaptive communications skills.",
+      "grades": "9-12",
+      "type": null
+    },
+    {
+      "courseNumber": "2000440",
+      "subject": "Science",
+      "title": "Genetics Honors",
+      "description": "This course covers principles of prokaryotic and eukaryotic cell genetics.  Emphasis is placed on the molecular basis of heredity, chromosome structure, patterns of Mendelian and non-Mendelian inheritance, evolution, and biotechnological applications.  Upon completion, students should be able to recognize and describe genetic phenomena and demonstrate knowledge of important genetic principles. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
+      "prerequisites": "Biology 1",
+      "grades": "9-12",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "10013100",
+      "subject": "English",
+      "title": "English I",
+      "description": "This course aims to provide grade 9 students with texts of high complexity and integrated language arts study in reading, writing, speaking, listening, and language for college and career preparation and readiness. This course is a prerequisite for English II Regular and English II Pre AICE.",
+      "grades": null,
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "10015600",
+      "subject": "English",
+      "title": "English I Pre AICE",
+      "description": "This course aims to provide grade 9 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a prerequisite for English II Pre AICE or AICE General Paper.",
+      "grades": null,
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "10013400",
+      "subject": "English",
+      "title": "English II",
+      "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular and English III Pre AICE.",
+      "grades": null,
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "2109321A",
+      "subject": "Social Studies",
+      "title": "PRE-AICE - IGSCE World History",
+      "description": "Cambridge IGCSE History looks at some of the major international issues of the nineteenth and twentieth centuries and covers the history of particular regions and events in more depth. This Course is does not count toward the Cambridge Diploma, but it does prepare students for coursework and examinations by Cambridge.",
+      "prerequisites": "FAST ELA Score 3",
+      "grades": "9-10",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "21093100",
+      "subject": "Social Studies",
+      "title": "World History",
+      "description": "The grade 9-12 World History course encompasses World History, Geography, and Humanities, building upon the middle school curriculum with a detailed exploration of civilizations and societies, including those of North and South America. It guides students through historical periods up from the 12th Century to the 21st Century, emphasizing the understanding of cause and effect by revisiting fundamental ideas and events from ancient and classical civilizations.",
+      "grades": "10",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "21003200",
+      "subject": "Social Studies",
+      "title": "US History Honors",
+      "description": "The United States History course focuses on historical, geographic, political, economic, and sociological events shaping the U.S. from Reconstruction to the present. Advanced levels demand increased academic rigor, challenging students to apply, analyze, evaluate, and create complex ideas while fostering critical thinking and collaboration, with an emphasis on deeper understanding of conceptual themes and interdisciplinary organization.",
+      "grades": "11",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "21003100",
+      "subject": "Social Studies",
+      "title": "US History",
+      "description": "The United States History course covers content strands in United States History, Geography, and Humanities, with a primary focus on studying U.S. history from Reconstruction to the present. Students explore historical, geographic, political, economic, and sociological events shaping the United States, emphasizing their impact on both the nation's development and global history, and are encouraged to review fundamental ideas and events preceding the end of Reconstruction to understand the cause-and-effect relationships in historical events.",
+      "grades": "11",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "21064750",
+      "subject": "Social Studies",
+      "title": "AICE Law",
+      "description": "The course encourages students to appreciate law in real-world situations through an understanding of the main principles of the law of England and Wales. Students develop analysis and problem-solving skills and learn to communicate legal argument. Students will study the structure and operation of the English legal system, and law of contract and tort",
+      "grades": "11-12",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "21005000",
+      "subject": "Social Studies",
+      "title": "AICE US History AS",
+      "description": "Students will study the origins of the Civil War, Civil War and Reconstruction, 1861–77, the Gilded Age and Progressive Era, 1870s to 1920, the Great Crash, the Great Depression and the New Deal policies, 1920–41.",
+      "prerequisites": "English General Paper or teacher recommendation",
+      "grades": "11-12",
+      "creditEquivalency": "AMH2029 – History of the United States Since 1877 (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "17003640",
+      "subject": "Social Studies",
+      "title": "Global Perspectives and Research AS Level",
+      "description": "Global Perspectives and Research is a skills-based course that prepares learners for positive engagement with our rapidly changing world. Learners broaden their outlook through the critical analysis of and reflection on issues of global significance. They will develop unique, transferable skills including research, critical thinking, and communication by following an approach to analyzing and evaluating arguments and perspectives called the 'Critical Path'.",
+      "prerequisites": "English General Paper or Equivalent",
+      "grades": "11-12",
+      "creditEquivalency": " ISS2011 – Interdisciplinary Social Science (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": "17003640",
+      "subject": "Social Studies",
+      "title": "Global Perspectives and Research AS Level",
+      "description": "Global Perspectives and Research is a skills-based course that prepares learners for positive engagement with our rapidly changing world. Learners broaden their outlook through the critical analysis of and reflection on issues of global significance. They will develop unique, transferable skills including research, critical thinking, and communication by following an approach to analyzing and evaluating arguments and perspectives called the 'Critical Path'.",
+      "prerequisites": "English General Paper or Equivalent",
+      "grades": "11-12",
+      "creditEquivalency": " ISS2011 – Interdisciplinary Social Science (3 credits)",
+      "type": "AICE"
+    },
+    {
+      "courseNumber": null,
+      "subject": "English",
+      "title": " English Language AS & A Level",
+      "description": " AS Level English Language provides learners with opportunities to make critical and informed responses to a wide range of texts. Learners will also demonstrate their ability to produce writing to specific briefs and for given audiences. A Level English Language learners will also develop a strong foundation in the study of linguistics, focusing on language change, child language acquisition, English in the world, and language and the self. Learners who follow the Cambridge International AS &amp; A Level English Language syllabus will develop the following skills and understanding:  • sustaining accurate, fluent and consistent writing  • producing informed responses appropriate to the specified form, style, context, and audiences  • conveying knowledge and understanding from both specific examples and wider studies.",
+      "prerequisites": " AS Level: English General Paper; A Level: English Language AS Level",
+      "grades": "10-12",
+      "creditEquivalency": "AS Level: ENC1101 – Composition I (3 credits); A Level: ENC1102 – Composition II (3 credits)",
+      "type": "AICE"
     }
   ]
 }
