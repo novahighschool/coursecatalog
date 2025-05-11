@@ -56,13 +56,13 @@ function createCourseCard(course) {
             <h2 class="course-title">${course.title}</h2>
             <p class="course-description">${course.description}</p>
             <div class="course-meta">
-                <span>Grades: ${course.grades}</span>
                 
+                ${course.grades ? `<span>Grades: ${course.grades}</span>`: ""}
                 ${course.prerequisites ? `<span>Prerequisites: ${course.prerequisites}</span>`: ""}
                 ${course.creditEquivalency ? `<span>Credit-by-Exam Equivalency: ${course.creditEquivalency}</span>`: ""}
+                ${course.aiceCategory ? `<span>AICE Category: ${course.aiceCategory}</span>`: ""}
                 
             </div>
-            
         </div>
     `;
 }
@@ -88,7 +88,8 @@ function filterCourses() {
       course.courseNumber?.toLowerCase().includes(search) ||
       course.prerequisites?.toLowerCase().includes(search) ||
       course.creditEquivalency?.toLowerCase().includes(search) ||
-      course.grades?.toLowerCase().includes(search);
+      course.grades?.toLowerCase().includes(search) ||
+      course.aiceCategory?.toLowerCase().includes(search);
     return subjectMatch && typeMatch && searchMatch;
   });
   
