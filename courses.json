@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "courseNumber": "00000000",
+      "courseNumber": "12003100",
       "subject": "Math",
       "title": "Algebra 1",
       "description": "In Algebra 1 instructional time will emphasize five areas:(1) performing operations with polynomials and radicals, and extending the Laws of Exponents to include rational exponents;(2) extending understanding of functions to linear, quadratic and exponential functions and using them to model and analyze real-world relationships;(3) solving quadratic equations in one variable and systems of linear equations and inequalities in two variables;(4) building functions, identifying their key features and representing them in various ways and(5) representing and interpreting categorical and numerical data with one and two variables.",
@@ -10,7 +10,7 @@
       "type": "Regular"
     },
     {
-      "courseNumber": "00000000",
+      "courseNumber": "",
       "subject": "English",
       "title": "English II Pre AICE",
       "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular, English III Honors, AICE, or Advanced Placement Language and Composition. ",
@@ -26,7 +26,8 @@
       "prerequisites": "Teacher recommendation and FAST ELA Score 3-5",
       "grades": "10-12",
       "type": "AICE",
-      "creditEquivalency": ""
+      "creditEquivalency": "",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
     },
     {
       "courseNumber": "2400300L",
@@ -86,11 +87,11 @@
       "courseNumber": "12023200",
       "subject": "Math",
       "title": "AP Calculus BC",
-      "description": "AP Chemistry is an introductory college-level chemistry course. Students cultivate their understanding of chemistry through inquiry-based lab investigations as they explore the four Big Ideas: scale, proportion, and quantity; structure and properties of substances; transformations; and energy.",
-      "prerequisites": "Biology, Chemistry, and teacher recommendation",
+      "description": "AP Calculus BC is an introductory college-level calculus course. Students cultivate their understanding of differential and integral calculus through engaging with real-world problems represented graphically, numerically, analytically, and verbally and using definitions and theorems to build arguments and justify conclusions as they explore concepts like change, limits, and the analysis of functions.",
+      "prerequisites": "AP Calculus AB and teacher recommendation",
       "grades": "11-12",
       "type": "AP",
-      "creditEquivalency": "Passing Score 3: CHM1020 & CHM1020L – Chemistry in Everyday Life and Lab (4 credits); Passing Score 4: CHM1045 & CHM1045L – General Chemistry I & Lab (4 credits); Passing Score 5: CHM1045 & CHM1045L – General Chemistry I & Lab AND CHM1046 & CHM1046L – General Chemistry II & Lab (8 credits)"
+      "creditEquivalency": "Passing Score 3 – MAC2311 – Calculus & Analytical Geometry I (5 credits); Passing Score 4-5: MAC2311 – Calculus & Analytical Geometry I AND MAC2312 - Calculus &amp; Analytical Geometry II (10 credits)"
     },
 
     {
@@ -145,7 +146,7 @@
       "prerequisites": "FAST Reading Level 4 or 5 and teacher recommendation",
       "grades": "11-12",
       "type": "AP",
-      "creditEquivalenc": "Passing Score 3: ENC1101 – Composition I (3 credits); Passing Score 4-5: ENC 1101 - Composition I AND ENC1102 – Composition II (6 credits)"
+      "creditEquivalency": "Passing Score 3: ENC1101 – Composition I (3 credits); Passing Score 4-5: ENC 1101 - Composition I AND ENC1102 – Composition II (6 credits)"
     },
 
     {
@@ -241,7 +242,7 @@
       "subject": "Math",
       "title": "AP Precalculus",
       "description": "AP Precalculus prepares students for other college-level mathematics and science courses. Through regular practice, students build deep mastery of modeling and functions, and they examine scenarios through multiple representations. The course framework delineates content and skills common to college precalculus courses that are foundational for careers in mathematics, physics, biology, health science, social science, and data science.",
-      "prerequisites": "Algebra II and teacher recommendation",
+      "prerequisites": "Algebra II Honors and teacher recommendation",
       "grades": "10-12",
       "type": "AP",
       "creditEquivalency": "Passing Score 3: MAC1140 – Precalculus Algebra (3 credits); Passing Score 4 or 5: MAC1140 – Precalculus Algebra AND MAC1147 - Precalculus Algebra & Trigonometry (6 credits)"
@@ -355,7 +356,7 @@
       "subject": "Math",
       "title": "Math for College Liberal Arts",
       "description": "In Mathematics for College Liberal Arts, instructional time will emphasize five areas: (1) analyzing and applying linear and exponential functions within a real-world context; (2) utilizing geometric concepts to solve real-world problems; (3) extending understanding of probability theory; (4) representing and interpreting univariate and bivariate data and (5) developing understanding of logic and set theory.",
-      "prerequisites": "Algebra 1",
+      "prerequisites": "Geometry",
       "grades": "11-12",
       "type": "Regular"
     },
@@ -364,7 +365,7 @@
       "subject": "Math",
       "title": "Math for College Algebra",
       "description": "In Mathematics for College Algebra, instructional time will emphasize five areas: (1) developing fluency with the Laws of Exponents with numerical and algebraic expressions; (2) extending arithmetic operations with algebraic expressions to include rational and polynomial expressions; (3) solving one-variable exponential, logarithmic, radical and rational equations and interpreting the viability of solutions in real-world contexts; (4) modeling with and applying linear, quadratic, absolute value, exponential, logarithmic and piecewise functions and systems of linear equations and inequalities; (5) extending knowledge of functions to include inverse and composition.",
-      "prerequisites": null,
+      "prerequisites": "Algebra 2",
       "grades": "11-12",
       "type": "Regular"
     },
@@ -373,7 +374,7 @@
       "subject": "Math",
       "title": "Algebra 2 Honors",
       "description": "In Algebra 2 Honors, instructional time will emphasize six areas: (1) developing understanding of the complex number system, including complex numbers as roots of polynomial equations; (2) extending arithmetic operations with algebraic expressions to include polynomial division, radical and rational expressions; (3) graphing and analyzing functions including polynomials, absolute value, radical, rational, exponential and logarithmic; (4) extending systems of equations and inequalities to include non-linear expressions; (5)building functions using compositions, inverses and transformations and (6) developing understanding of probability concepts.",
-      "prerequisites": "Geometry Honors",
+      "prerequisites": "Geometry 1 or Math for College Liberal Arts or Math for College Algebra",
       "grades": "9-12",
       "type": "Honors"
     },
@@ -439,7 +440,8 @@
       "prerequisites": "Advanced IT Honors or equivalent course",
       "grades": "10-12",
       "creditEquivalency": "CGS1060C – Computer &amp; Internet Literacy (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 1: Mathematics and Science (One required)"
     },
     {
       "courseNumber": "02004600",
@@ -449,7 +451,8 @@
       "prerequisites": "Introduction to Engineering Honors",
       "grades": "10-12",
       "creditEquivalency": "ETI1482C – Introduction to Industrial Engineering (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 1: Mathematics and Science (One required)"
     },
     {
       "courseNumber": "20013810",
@@ -459,7 +462,8 @@
       "prerequisites": "Biology and Chemistry:",
       "grades": "10-12",
       "creditEquivalency": "EVR1001 – Introduction to Environmental Science (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 1: Mathematics and Science (One required), Group 3: Arts and Humanities (One required)"
     },
     {
       "courseNumber": "20025150",
@@ -469,17 +473,19 @@
       "prerequisites": "Biology and Chemistry",
       "grades": "10-12",
       "creditEquivalency": "OCE1001 – Introductory Oceanography (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 1: Mathematics and Science (One required)"
     },
     {
-      "courseNumber": null,
+      "courseNumber": "21073600",
       "subject": "Elective",
       "title": " Psychology AS & A Level (Group 1 or 3)",
       "description": " The course aims to encourage an interest in and appreciation of psychology through an exploration of the ways in which psychology is conducted. This exploration includes a review of a number of important research studies and an opportunity to look at the ways in which psychology has been applied. ",
       "prerequisites": "AS Level: English General Paper; A Level: AS Psychology",
       "grades": "10-12",
       "creditEquivalency": "AS Level: PSY2012 – General Psychology (3 credits); A Level: PSY2043 – Advanced General Psychology (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 1: Mathematics and Science (One required), Group 3: Arts and Humanities (One Required)"
     },
     {
       "courseNumber": "30260200",
@@ -489,7 +495,8 @@
       "prerequisites": " Biology and Chemistry",
       "grades": "10-12",
       "creditEquivalency": "PET1001 – Physical Education Theory (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 1: Mathematics and Science (One required), Group 3: Arts and Humanities (One required)"
     },
     {
       "courseNumber": "2003310",
@@ -615,7 +622,7 @@
       "title": "Forensics I",
       "description": "The purpose of this course is to provide opportunities to develop knowledge of biology and physical sciences through forensic science, and enable students to associate this knowledge with real-life applications - and at a high level of rigor and content. The content should include, but not be limited to, the following: implementation of scientific knowledge, methodology, and historical context to solve problems, use of laboratory technologies, chemical basis of heredity and biotechnology, connections between the sciences and technology, society, and the environment, matter, energy, and the processes of life, medical technologies and careers, forces and motion and the nature of matter. Laboratory investigations of selected topics in the content, which also include use of the scientific method, measurement, laboratory apparatus, and safety procedures, are an integral part of this course. Inquiry into current technology and applications of scientific principles and their relationship to society and the environment is encouraged. A science research project, science fair project or science research paper is recommended. It is recommended that all honors courses participate in some form or level of scientific research and application. The Common Core State Standards (CCSS) for literacy are infused through instructional practices that ensure reading from a wide range of informational texts and provide extensive research and writing opportunities, while the mathematical practices focus on applying critical thinking and logical reasoning skills.",
       "grades": "11-12",
-      "type": "Honors"
+      "type": "Regular"
     },
     {
       "courseNumber": "20024900",
@@ -632,7 +639,7 @@
       "title": "Medical Skills and Services",
       "description": "This course provides students an introduction to health careers as well as practical competencies related to health decisions all individuals will make during their lifetime.  Content includes common health skills, information related to disease prevention and maintenance of health, safety practices in carrying out medical instructions, adapting health principles to the home, legal aspects for the health consumer, and exploration of services provided by health professionals and community health agencies. Content area literacy has been embedded into the frameworks to ensure that literacy instruction is shared across the disciplines through enhanced reading, comprehension and evaluation skills. Common Core State Standards are used to ensure the level of this CTE program coincides with what students need for future employment, including adaptive communications skills.",
       "grades": "9-12",
-      "type": null
+      "type": "Regular"
     },
     {
       "courseNumber": "2000440",
@@ -648,7 +655,7 @@
       "subject": "English",
       "title": "English I",
       "description": "This course aims to provide grade 9 students with texts of high complexity and integrated language arts study in reading, writing, speaking, listening, and language for college and career preparation and readiness. This course is a prerequisite for English II Regular and English II Pre AICE.",
-      "grades": null,
+      "grades": "",
       "type": "Regular"
     },
     {
@@ -656,7 +663,7 @@
       "subject": "English",
       "title": "English I Pre AICE",
       "description": "This course aims to provide grade 9 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a prerequisite for English II Pre AICE or AICE General Paper.",
-      "grades": null,
+      "grades": "",
       "type": "Honors"
     },
     {
@@ -664,7 +671,7 @@
       "subject": "English",
       "title": "English II",
       "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular and English III Pre AICE.",
-      "grades": null,
+      "grades": "",
       "type": "Regular"
     },
     {
@@ -703,20 +710,24 @@
     {
       "courseNumber": "21064750",
       "subject": "Social Studies",
-      "title": "AICE Law",
+      "title": "AICE Law (British) AS Level",
       "description": "The course encourages students to appreciate law in real-world situations through an understanding of the main principles of the law of England and Wales. Students develop analysis and problem-solving skills and learn to communicate legal argument. Students will study the structure and operation of the English legal system, and law of contract and tort",
+      "prerequisites": "Comprehensive Law &amp; Constitutional Law",
+      "creditEquivalency": "N/A",
       "grades": "11-12",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
     },
     {
       "courseNumber": "21005000",
       "subject": "Social Studies",
-      "title": "AICE US History AS",
+      "title": "U.S. History AS Level",
       "description": "Students will study the origins of the Civil War, Civil War and Reconstruction, 1861–77, the Gilded Age and Progressive Era, 1870s to 1920, the Great Crash, the Great Depression and the New Deal policies, 1920–41.",
+      "grades": "11",
       "prerequisites": "English General Paper or teacher recommendation",
-      "grades": "11-12",
       "creditEquivalency": "AMH2029 – History of the United States Since 1877 (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": ""
     },
     {
       "courseNumber": "17003640",
@@ -726,27 +737,1153 @@
       "prerequisites": "English General Paper or Equivalent",
       "grades": "11-12",
       "creditEquivalency": " ISS2011 – Interdisciplinary Social Science (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Core Required"
     },
     {
-      "courseNumber": "17003640",
-      "subject": "Social Studies",
-      "title": "Global Perspectives and Research AS Level",
-      "description": "Global Perspectives and Research is a skills-based course that prepares learners for positive engagement with our rapidly changing world. Learners broaden their outlook through the critical analysis of and reflection on issues of global significance. They will develop unique, transferable skills including research, critical thinking, and communication by following an approach to analyzing and evaluating arguments and perspectives called the 'Critical Path'.",
-      "prerequisites": "English General Paper or Equivalent",
-      "grades": "11-12",
-      "creditEquivalency": " ISS2011 – Interdisciplinary Social Science (3 credits)",
-      "type": "AICE"
-    },
-    {
-      "courseNumber": null,
+      "courseNumber": "10015500",
       "subject": "English",
       "title": " English Language AS & A Level",
       "description": " AS Level English Language provides learners with opportunities to make critical and informed responses to a wide range of texts. Learners will also demonstrate their ability to produce writing to specific briefs and for given audiences. A Level English Language learners will also develop a strong foundation in the study of linguistics, focusing on language change, child language acquisition, English in the world, and language and the self. Learners who follow the Cambridge International AS &amp; A Level English Language syllabus will develop the following skills and understanding:  • sustaining accurate, fluent and consistent writing  • producing informed responses appropriate to the specified form, style, context, and audiences  • conveying knowledge and understanding from both specific examples and wider studies.",
       "prerequisites": " AS Level: English General Paper; A Level: English Language AS Level",
       "grades": "10-12",
       "creditEquivalency": "AS Level: ENC1101 – Composition I (3 credits); A Level: ENC1102 – Composition II (3 credits)",
-      "type": "AICE"
+      "type": "AICE",
+      "aiceCategory": "Group 2: Languages (One required)"
+    },
+    {
+      "courseNumber": "07085380",
+      "subject": "Foreign Language",
+      "title": "Spanish Language AS Level",
+      "description": "This course develops student’s language proficiency required to communicate effectively in Spanish. Students explore and engage with the culture and society of countries and communities where Spanish is spoken.",
+      "prerequisites": "Spanish III or teacher recommendation",
+      "grades": "10-12",
+      "creditEquivalency": "FRE2220 – Intermediate French I (4 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 2: Languages (One required)"
+    },
+    {
+      "courseNumber": "07085500",
+      "subject": "Foreign Language",
+      "title": "Spanish Language & Literature A Level",
+      "description": "This course develops the language proficiency required to communicate effectively in Spanish. Students explore, appreciate, and engage with the culture, society and literature of countries and communities where Spanish is spoken.",
+      "prerequisites": "AICE Spanish Language or teacher recommendation",
+      "grades": "10-12",
+      "creditEquivalency": "SPN2220 – Intermediate Spanish I &amp; SPN2201 - Intermediate Spanish II (7 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 2: Languages (One required)"
+    },
+
+    {
+      "courseNumber": "",
+      "subject": "Electives",
+      "title": "Art & Design AS Level",
+      "description": "This course develops an inquisitive, creative approach to research and problem-solving, the ability to record from ﬁrst-hand observation, personal experience and other sources, independent expression by analyzing, evaluating, and applying concepts and techniques, a clear contextual framework that aids critical reﬂection of their work, and a critical understanding of important concepts and formal elements of art and design.",
+      "prerequisites": "Teacher recommendation",
+      "grades": "10-12",
+      "creditEquivalency": "ART1201C – 2D Design (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
+    },
+    {
+      "courseNumber": "11004300",
+      "subject": "Electives",
+      "title": "Digital Media and Design AS Level",
+      "description": "This course is for students who want to explore a range of processes and techniques in digital media. The content is grouped into three broad areas of study: digital photography, moving image through film and animation, and mobile and multimedia applications, including game design.The aims describe the purposes of a course based on this syllabus. The aims are to enable students to: • develop critical understanding of international media through engagement with media products and concepts • develop critical understanding of international media through engagement with the creative application of practical skills • explore production processes, technologies and contexts • develop independence in research skills and their application • enjoy and appreciate the media and its role in their daily lives • appreciate and engage with a variety of global and local media texts • explore the impact of the media within a variety of cultures and how this influences social values",
+      "prerequisites": "Pre-AICE Photography, Digital Media Design 1, or Photoshop certified",
+      "grades": "10-12",
+      "creditEquivalency": "DIG1000 – Workshop Digital Technology (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
+    },
+    {
+      "courseNumber": "",
+      "subject": "English",
+      "title": "English Literature AS Level",
+      "description": "Students will study a range of texts in the three main forms: prose, poetry, and drama. Set texts are offered from a wide range of different periods and cultures. Students will develop skills of reading and analysis of texts and are encouraged to undertake wider reading to aid understanding of the texts studied.",
+      "prerequisites": "English General Paper & English Language",
+      "grades": "11-12",
+      "creditEquivalency": "ENC1102 – Composition II (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
+    },
+    {
+      "courseNumber": "1100430A",
+      "subject": "Electives",
+      "title": "Media Studies AS Level",
+      "description": "This course offers the chance to develop an understanding and appreciation of the place of media in our everyday lives. The syllabus enables learners to take a hands-on approach to the subject.  Through the Foundation Portfolio, students create their own media products from planning through to execution. Learners also consider and analyze examples from existing media, examining production processes and technologies and the effects they achieve.",
+      "prerequisites": "English General Paper",
+      "grades": "10-12",
+      "creditEquivalency": "DIG1000 – Introduction to Digital Media (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
+    },
+    {
+      "courseNumber": "21083100",
+      "subject": "Electives",
+      "title": "Sociology AS Level",
+      "description": "In a rapidly changing world, this course offers the opportunity not only to explore the processes that are shaping current trends, but also to develop an understanding of the complexity and diversity of human societies and their continuities with the past. The study of sociology stimulates awareness of contemporary social, cultural, and political issues, and focuses on the importance of examining these issues in a rigorous, reasoned, and analytical way.",
+      "prerequisites": "English General Paper",
+      "grades": "10-12",
+      "creditEquivalency": "SYG2000 – Principles of Sociology (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
+    },
+    {
+      "courseNumber": "21024100",
+      "subject": "Electives",
+      "title": "Travel and Tourism AS Level",
+      "description": "This syllabus encourages learners to appreciate the scale and importance of the travel and tourism industry in the world and recognize the positive and negative impacts the industry may have on people, environments, and economies. The syllabus encourages learners to develop practical and technical skills relevant to the industry, enabling them to deal with a range of complex situations and problems.",
+      "prerequisites": "English General Paper",
+      "grades": "10-12",
+      "creditEquivalency": "HFT1000 – Introduction to Hospitality & Tourism (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Group 3: Arts and Humanities (One Required)"
+    },
+    {
+      "courseNumber": "10094002",
+      "subject": "English",
+      "title": "English General Paper AS Level",
+      "description": "This course engages students with a variety of topics, including knowledge and understanding gained from study of other subjects. They learn to become confident in analyzing knowledge and opinion from a variety of sources, to build arguments and to communicate through written English.",
+      "prerequisites": "FAST ELA Score 3-5",
+      "grades": "9-12",
+      "creditEquivalency": "IDS1110 – Interdisciplinary Studies (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Category 4: Interdisciplinary Subjects (Optional)"
+    },
+    {
+      "courseNumber": "",
+      "subject": "Math",
+      "title": "Algebra 2",
+      "description": "In Algebra 2, instructional time will emphasize five areas: (1) extending arithmetic operations with algebraic expressions to include radical and rational expressions and polynomial division; (2) graphing and analyzing functions including polynomials, absolute value, radical, rational, exponential and logarithmic; (3) building functions using compositions, inverses and transformations; (4) extending systems of equations and inequalities to include non-linear expressions and (5) developing understanding of the complex number system, including complex numbers as roots of polynomial equations.",
+      "prerequisites": "Geometry 1 or Math for College Liberal Arts or Math for College Algebra",
+      "grades": "9-12",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "17003721",
+      "subject": "Electives",
+      "title": "Thinking Skills AS Level",
+      "description": "Thinking Skills develops a set of transferable skills, including critical thinking, reasoning and problem solving, that students can apply across a wide range of subjects and complex real-world issues. The syllabus enables students to develop their ability to analyze unfamiliar problems, devise problem solving strategies, and evaluate the diverse ways a problem may be solved.",
+      "prerequisites": "FAST ELA Score 3-5",
+      "grades": "9-12",
+      "creditEquivalency": "PHI1103 – Introductory Logic (3 credits)",
+      "type": "AICE",
+      "aiceCategory": "Category 4: Interdisciplinary Subjects (Optional)"
+    },
+
+    {
+      "courseNumber": "",
+      "subject": "Math",
+      "title": "Math Data and Financial Literacy",
+      "description": "In Mathematics for Data and Financial Literacy, instructional time will emphasize five areas: (1) extending knowledge of ratios, proportions and functions to data and financial contexts; (2) developing understanding of basic economic and accounting principles; (3) determining advantages and disadvantages of credit accounts and short- and long-term loans; (4) developing understanding of planning for the future through investments, insurance and retirement plans and (5) extending knowledge of data analysis to create and evaluate reports and to make predictions.",
+      "prerequisites": "Algebra 2",
+      "grades": "11-12",
+      "creditEquivalency": "None",
+      "type": "Regular"
+    },
+
+    {
+      "courseNumber": "04003100",
+      "subject": "Electives",
+      "title": "Theater 1",
+      "description": "This course is designed for students with little or no theatre experience, and promotes enjoyment and appreciation for all aspects of theatre. Classwork focuses on the exploration of theatre literature, performance, historical and cultural connections, and technical requirements. Improvisation, creative dramatics, and beginning scene work are used to introduce students to acting and character development. Incorporation of other art forms in theatre also helps students gain appreciation for other art forms, such as music, dance, and visual art. Special Note: This course may require students to participate in extra rehearsals and performances beyond the school day.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "04003800",
+      "subject": "Electives",
+      "title": "Acting 2",
+      "description": "Students examine the various dimensions of characters through analysis, discussion, and classroom performance, working with scripts from a variety of time periods and cultures. They learn to break down a scene from a character’s point of view, and also learn to sustain a character and build the relationship between actor and audience. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "04003900",
+      "subject": "Electives",
+      "title": "Acting 3",
+      "description": "Students focus on development of significant acting skills and knowledge of the actor’s literature, compiling a working actor’s portfolio for exhibition and/or the interview process. They research potential job opportunities in the film, television, game animation, and theatre industries, as well as scholarships and opportunities available at the university level.  An inquiry- based capstone project may be required. Public performances may serve as a culmination of specific instructional goals. Students may be required to participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "04004000",
+      "subject": "Electives",
+      "title": "Acting 4 Honors",
+      "description": "Students create characters for theatrical and film/video productions through scene, character, and technical analysis. Through improvisation, script writing, and aesthetic creation and collaboration, actors refine their working knowledge and independent thought, articulating and justifying their creative choices. Students’ “critical eye” becomes more developed and significant mastery of artistic choices becomes evident. An inquiry-based capstone project may be required. Public performances may serve as a culmination of specific instructional goals. Students may be required to participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "04004200",
+      "subject": "Electives",
+      "title": "Technical Theater 2",
+      "description": "Students focus on the design and safe application of basic tools and procedures to create elements of technical theatre, including costumes, lighting, makeup, properties (props), publicity, scenery, and sound. Students develop assessment and problem-solving skills; the ability to connect selected literature to a variety of cultures, history, and other content areas. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend or participate in technical work, rehearsals, and/or performances beyond the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "04004300",
+      "subject": "Electives",
+      "title": "Technical Theater 3",
+      "description": "Students regularly reflect on aesthetics and issues related to and addressed through theatre, and create within various aspects of theatre. Student designers and technicians assemble a portfolio that showcases a body of work representing artistic growth over time; growing command of theatre skills and techniques in one or more areas; and evidence of significant oral and written analytical and problem-solving skills. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend or participate in technical work, rehearsals, and/or performances beyond the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "04007000",
+      "subject": "Electives",
+      "title": "Musical Theater 1",
+      "description": "Students' course work focuses on, but is not limited to, acting, vocal performance, dance, non-dance movement, and staging, which transfer readily to performances in musicals and other venues. Students survey the evolution of music in theatre from ancient Greece to modern Broadway through a humanities approach and representative literature. Music theatre students explore the unique staging and technical demands of musicals in contrast to non-musical plays. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "04007100",
+      "subject": "Electives",
+      "title": "Musical Theater 2",
+      "description": "Students learn from the styles and techniques used by well-known singer-actor-dancers and choreographers to build a performance portfolio for auditions and/or interviews. Students examine the contributions of major writers, composers, lyricists, and choreographers of musical theatre and learn to analyze the structures, stories, and settings of musical theatre exemplars to understand how those components serve the story and concept. Students extend their dance and movement techniques required to sing and dance at the same time. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "04007200",
+      "subject": "Electives",
+      "title": "Musical Theater 3",
+      "description": "Students refine their audition techniques and performance/audition portfolio, and consider the contributions of musical theatre in the community and beyond. Students select a number of pieces to showcase their abilities and become conversant about individuals who, currently and in the past, are considered major contributors to the field. Students refine their dance and movement techniques required to sing and dance for long periods of time in rehearsals and performance. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "04003400",
+      "subject": "Electives",
+      "title": "Theater 4 Honors",
+      "description": "This course is designed for students with extensive experience in theatre, and promotes significant depth of engagement and lifelong appreciation for theatre through a broad spectrum of primarily self-directed study and performance. In keeping with the rigor expected in an accelerated setting, students assemble a portfolio that showcases a significant body of work representing personal vision and artistic growth over time; mastery of theatre skills and techniques in one or more areas; and evidence of sophisticated oral and written analytical and problem-solving skills based on their structural, historical, and cultural knowledge.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "1006300E",
+      "subject": "Electives",
+      "title": "Journalism 1 (Yearbook)",
+      "description": "The purpose of this course is to enable students to develop fundamental skills in the production of journalism across print, multimedia, web, and broadcast/radio platforms and to develop knowledge of journalism history, ethics use, and management techniques related to the production of journalistic media.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "1006310U",
+      "subject": "Electives",
+      "title": "Journalism 2 (Yearbook)",
+      "description": "The purpose of this course is to enable students to extend fundamental skills in the production of journalism across print, multimedia, web, and broadcast/radio platforms and to develop further knowledge of journalism history, ethics use, and management techniques related to the production of journalistic media.",
+      "prerequisites": "Journalism 1",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "1006320U",
+      "subject": "Electives",
+      "title": "Journalism 3 (Yearbook)",
+      "description": "The purpose of this course is to enable students to further extend skills in the production of journalism across print, multimedia, web, and broadcast/radio platforms and to develop further knowledge of journalism history, ethics use, and management techniques related to the production of journalistic media.",
+      "prerequisites": "Journalism 2",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "1006330U",
+      "subject": "Electives",
+      "title": "Journalism 4 (Yearbook)",
+      "description": "The purpose of this course is to enable students to further extend skills in the production of journalism across print, multimedia, web, and broadcast/radio platforms and to develop further knowledge of journalism history, ethics use, and management techniques related to the production of journalistic media.",
+      "prerequisites": "Journalism 3",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "1006340U",
+      "subject": "Electives",
+      "title": "Journalism 5 (Yearbook) Honors",
+      "description": "The purpose of this course is to perform advanced skills in the production of journalism across print, multimedia, web, and broadcast/radio platforms and to develop advanced knowledge of journalism history, ethics use, and management techniques related to the production of journalistic media.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "10073000",
+      "subject": "Electives",
+      "title": "Art of Public Speaking (Speech)",
+      "description": "This course is designed to build student facility in structuring various types of speeches, researching information, audience analysis, presentation of speeches and building self confidence in public speaking situations. Students will critique speeches, paying attention to content, organization, language, and delivery style, and produce and present well-structured, developed speeches.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "1007330D",
+      "subject": "Electives",
+      "title": "Debate 1 LH",
+      "description": "This course is focused on the use of correct and effective language and organizational skills in preparing, delivering, and evaluating argument and debate.  Students will critique debates, paying attention to content, organization, language, and delivery style, and produce and present well-structured, developed arguments, applying oral communication concepts and strategies for public debate in a variety of given settings.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Reulgar"
+    },
+    {
+      "courseNumber": "1007340J",
+      "subject": "Electives",
+      "title": "Debate 2 Honors",
+      "description": "This course is focused on the continued use of correct and effective language and organizational skills in preparing, delivering, and evaluating argument and debate.  Students will critique debates, paying attention to content, organization, language, and delivery style, and produce and present well-structured, developed arguments, applying oral communication concepts and strategies for public debate in a variety of given settings.",
+      "prerequisites": "Debate 1",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "1007350Q",
+      "subject": "Electives",
+      "title": "Debate 3 Honors",
+      "description": "This course is focused on the advanced use of correct and effective language and organizational skills in preparing, delivering, and evaluating argument and debate. Students will critique debates, paying attention to content, organization, language, and delivery style, and produce and present well-structured, developed arguments, applying oral communication concepts and strategies for public debate in a variety of given settings.",
+      "prerequisites": "Debate 2 Honors",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "1007360W",
+      "subject": "Electives",
+      "title": "Debate 4 Honors",
+      "description": "This course is focused on the advanced use of correct and effective language and organizational skills in preparing, delivering, and evaluating  higher-level arguments and debates. Students will critique debates, paying attention to content, organization, language, and delivery style, and produce and present well-structured, developed arguments, applying oral communication concepts and strategies for public debate in a variety of given settings. Some work outside of the regular school day may be required.",
+      "prerequisites": "Debate 3 Honors",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "10073700",
+      "subject": "Electives",
+      "title": "Debate 5 Honors",
+      "description": "This course is focused on the advanced and complex use of correct and effective language and organizational skills in preparing, delivering, and evaluating argument and debate. Students will critique debates, paying attention to content, organization, language, and delivery style, and produce and present complex, well-structured, developed arguments, applying oral communication concepts and strategies for public debate in a variety of given settings. Some work outside of the regular school day may be required.",
+      "prerequisites": "Debate 4 Honors",
+      "grades": "9-12",
+      "creditEquivalency": "None",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "07085320",
+      "subject": "Foreign Language",
+      "title": "Pre-AICE Spanish 1",
+      "description": "Spanish 1 introduces students to the target language and its culture. The student will develop communicative skills in all 3 modes of communication and cross-culturalunderstanding. Emphasis is placed on proficient communication in the language. An introduction to reading and writing is also included as well as culture, connections, comparisons, and communities.",
+      "prerequisites": "",
+      "grades": "9-11",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "07085340",
+      "subject": "Foreign Language",
+      "title": "Pre-AICE Spanish 2",
+      "description": "Spanish 2 reinforces the fundamental skills acquired by the students in Spanish 1. The course develops increased listening, speaking, reading, and writing skills as well as cultural awareness. Specific content to be covered is a continuation of listening and oral skills acquired in Spanish 1. Reading and writing receive more emphasis, while oral communication remains the primary objective. The cultural survey of the target language-speaking people is continued.",
+      "prerequisites": "Spanish 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "07085600",
+      "subject": "Foreign Language",
+      "title": "Spanish 3 Honors",
+      "description": "Spanish 3 provides mastery and expansion of skills acquired by the students in Spanish 2. Specific content includes, but is not limited to, expansions of vocabulary and conversational skills through discussions of selected readings. Contemporary vocabulary stresses activities which are important to the everyday life of the target language-speaking people.",
+      "prerequisites": "Spanish 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "07013940",
+      "subject": "Foreign Language",
+      "title": "Pre-AICE French 1",
+      "description": "French 1 introduces students to the target language and its culture. The student will develop communicative skills in all 3 modes of communication and cross-cultural understanding. Emphasis is placed on proficient communication in the language. An introduction to reading and writing is also included as well as culture, connections, comparisons, and communities.",
+      "prerequisites": "",
+      "grades": "9-11",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "07013960",
+      "subject": "Foreign Language",
+      "title": "Pre-AICE French 2",
+      "description": "French 2 reinforces the fundamental skills acquired by the students in French 1. The course develops increased listening, speaking, reading, and writing skills as well as cultural awareness. Specific content to be covered is a continuation of listening and oral skills acquired in French 1. Reading and writing receive more emphasis, while oral communication remains the primary objective. The cultural survey of the target language-speaking people is continued.",
+      "prerequisites": "French 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "07013400",
+      "subject": "Foreign Language",
+      "title": "French 3 Honors",
+      "description": "French 3 provides mastery and expansion of skills acquired by the students in French 2. Specific content includes, but is not limited to, expansions of vocabulary and conversational skills through discussions of selected readings. Contemporary vocabulary stresses activities which are important to the everyday life of the target language-speaking people.",
+      "prerequisites": "French 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "90076100",
+      "subject": "CTE",
+      "title": "Advanced IT Honors",
+      "description": "This course provides a basic overview of current business and information systems and their trends. Students gain fundamental knowledge and experience in computer technology that is required for today's business and academic environments. With the development of basic computer science knowledge and understanding, this course prepares students to be successful both personally and professionally in an information-based society. Advanced Information Technology includes industry-driven standards that allow student exploration of computers and their networks, as well as other emergent technology, hardware/software installation and functionality, web development practices, and the benefits and risks of using computers both locally and globally.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "88005100",
+      "subject": "CTE",
+      "title": "Culinary Arts 1",
+      "description": "This course covers the history of the food service industry and careers in that industry. Also covered are safety in the workplace; employability skills; leadership/teamwork skills; care and use of commercial culinary equipment; basic food science; basic nutrition; and following recipes in food preparation labs.",
+      "prerequisites": "None",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "88005200",
+      "subject": "CTE",
+      "title": "Culinary Arts 2",
+      "description": "In this course students will learn state mandated guidelines for food service; how to attain food handler training certification; and perform front-of-the-house and back-of-the-house duties. Students will prepare quality food products and present them creatively; demonstrate safe, sanitary work procedures; understand food science principles related to cooking and baking; and utilize nutrition concepts when planning meals/menus.",
+      "prerequisites": "Culinary Arts 1",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "9007210C",
+      "subject": "CTE",
+      "title": "Foundations of Programming Honors",
+      "description": "This course introduces concepts, techniques, and processes associated with computer programming and software development.",
+      "prerequisites": "Advanced IT Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "90013200",
+      "subject": "CTE",
+      "title": "Cybersecurity 1 Honors (Computer and Network Security Fundamentals )",
+      "description": "This course introduces students to cybersecurity and provides them with essential computer and networking knowledge and skills, particularly those related to cybersecurity.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "88005300",
+      "subject": "CTE",
+      "title": "Culinary Arts 3",
+      "description": "In this course the student will research career opportunities in professional cooking/baking; follow guidelines on food selection, purchasing, and storage; and use communication skills. Students will prepare and present a variety of advanced food products; create centerpieces; and research laws specific to the hospitality industry. Also covered are management skills; how to develop a business plan; and utilization of technology in the workplace. Students will be knowledgeable about food safety manager training/certification training programs that are acceptable in Florida.",
+      "prerequisites": "Culinary Arts 2",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "90013300",
+      "subject": "CTE",
+      "title": "Cybersecurity 2 Honors (Cybersecurity Essentials)",
+      "description": "This course provides students with insight into the many variations of vulnerabilities, attack mechanisms, intrusion detection systems, and some methods to mitigate cybersecurity risks, including certificate services and cryptographic systems.",
+      "prerequisites": "Cybersecurity 1 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "88005400",
+      "subject": "CTE",
+      "title": "Culinary Arts 4",
+      "description": "This course provides opportunities for students to apply their acquired knowledge and skills in culinary related scenarios. Track 1 is comprised of Standards 20 - 27 and is a one credit course focused on Culinary and Hospitality Management. This is a culminating course to develop advanced culinary techniques and skills. Students will learn using modern technology and culinary trends. To complete the program, students must complete either Track 1 or Track 2 or Track 3. Students may complete more than one track in this course.",
+      "prerequisites": "Culinary Arts 3",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "86005500",
+      "subject": "CTE",
+      "title": "Intro to Engineering Design 1 Honors",
+      "description": "This course exposes students to the design process, research and analysis, teamwork, communication methods, global and human impacts, engineering standards, and technical documentation. Students will employ engineering and scientific concepts in the solution of engineering design problems. In addition, they will learn to use 3D solid modeling design software to design solutions to problems. Students will develop problem-solving skills and apply their knowledge of research and design to create solutions, document the process, and communicate the results.",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "90013400",
+      "subject": "CTE",
+      "title": "Cybersecurity 3 Honors (Operational Cybersecurity)",
+      "description": "This course provides students with insight into the many ways in which computer systems can be secured, countermeasures implemented, and risk assessment performed.",
+      "prerequisites": "Cybersecurity 2 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "90013500",
+      "subject": "CTE",
+      "title": "Cybersecurity 4 Honors (Cybersecurity Planning &amp; Analysis)",
+      "description": "This course focuses on the mitigation planning, disaster recovery, business continuity planning, and forensic analysis associated with securing computer environments. Many of the standards covered in this framework are based on or aligned with guidelines published by the Computer Security Division of the National Institute of Standards and Technology (NIST).",
+      "prerequisites": "Cybersecurity 3 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "86005900",
+      "subject": "CTE",
+      "title": "Civil Engineering & Architecture Honors",
+      "description": "This course provides an overview of the fields of Civil Engineering and Architecture, while emphasizing the interrelationship and dependence of both fields on each other. Students use state of the art software to solve real world problems and communicate solutions to hands-on projects and activities. This course covers topics such as the Roles of Civil Engineers and Architects, Project Planning, Site Planning, Building Design, and Project Documentation and Presentation.",
+      "prerequisites": "Intro to Engineering Design 1 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+
+    {
+      "courseNumber": "82151200",
+      "subject": "CTE",
+      "title": "Business Entrepreneurship and Principles Honors",
+      "description": "This course is designed to provide an introduction to business organization, management, and entrepreneurial principles. Topics include communication skills, various forms of business ownership and organizational structures, supervisory/management skills, leadership skills, human resources management activities, business ethics, and cultural diversity. Emphasis is placed on job readiness and career development. The use of computers is an integral part of this program.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "86006500",
+      "subject": "CTE",
+      "title": "Engineering Design & Development Honors",
+      "description": "The purpose of this course is to serve as a capstone course to provide students with the opportunity to develop a solution to a design problem from start to finish. Students work in teams to design, engineer, create a prototype, perform product testing, and then produce a finished product. This would involve using ALL of the knowledge previously learned, not only in technology education, but across the curriculum. Students will be expected to create and deliver a formal report on the project.",
+      "prerequisites": "Civil Engineering & Architect Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "82033100",
+      "subject": "CTE",
+      "title": "Accounting",
+      "description": "This course emphasizes double-entry accounting; methods and principles of recording business transactions; the preparation of various documents used in recording income, expenses, acquisition of assets, incurrence of liabilities, and changes in equity; and the preparation of financial statements. The use of computers and appropriate software is required.",
+      "prerequisites": "Business Entrepreneurship and Principles Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "94101100",
+      "subject": "CTE",
+      "title": "Foundations of Robotics",
+      "description": "This course provides students with a foundation in content and skills associated with robotics and automation, including artificial intelligence, electronics, physics, and principles of engineering.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "83011200",
+      "subject": "CTE",
+      "title": "Business Analysis Honors",
+      "description": "This course is designed to provide a higher level of understanding of business systems, accounting concepts, working with financial information, data analysis skills, managing business information with appropriate software, requirements analysis of information systems, data modeling, and database management.",
+      "prerequisites": "Accounting",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+
+    {
+      "courseNumber": "94101200",
+      "subject": "CTE",
+      "title": "Robotic Design Essentials Honors",
+      "description": "This course provides students with content and skills essential to the design and operation of robotics, including artificial intelligence, sensors, electronic devices, engineering technologies, motion physics, electrical motors, programming, simulation and modeling, and critical thinking skills.",
+      "prerequisites": "Foundations of Robotics",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "83011100",
+      "subject": "CTE",
+      "title": "Management and Human Resources",
+      "description": "This course explores the reach and impact of managing people, one of the most important resources of an organization. Students are required to perform higher level strategic thinking. Topics include; management policy development, evaluating organizational effectiveness, sourcing and recruitment, hiring and retention planning, employee training, performance appraisals, compensation and benefit programs, maintaining working conditions and providing a safe working environment.",
+      "prerequisites": "Accounting",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "94101300",
+      "subject": "CTE",
+      "title": "Robotic Systems Honors",
+      "description": "intelligence, specialized sensors, electronic applications, engineering technologies, environmental physics, manufacturing, topographical considerations, programming, communications, simulation and modeling, and critical thinking skills.",
+      "prerequisites": "Robotics Design Essentials Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "82014100",
+      "subject": "CTE",
+      "title": "Digital Video Technology 1",
+      "description": "This course provides students with an introduction to the digital video production process; content includes safe work practices, planning a production set, designing lighting plans, camera operation, and audio/ video recording, mixing, and editing.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "94101400",
+      "subject": "CTE",
+      "title": "Robotic Applications Capstone Honors",
+      "description": "This course provides students with extended content and skills essential to the design and operation of autonomous robotic systems in the context of a capstone project.",
+      "prerequisites": "Robotics Systems Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "82014200",
+      "subject": "CTE",
+      "title": "Digital Video Technology 2",
+      "description": "This course provides students with intermediate level instruction in the digital video production process.",
+      "prerequisites": "Digital Video Technology 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "82014300",
+      "subject": "CTE",
+      "title": "Digital Video Technology 3",
+      "description": "Students will participate in the digital video pre-production, production, and post-production processes.",
+      "prerequisites": "Digital Video Technology 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "94010100",
+      "subject": "CTE",
+      "title": "Artificial Intelligence in the World",
+      "description": "This course introduces students to the principles of Artificial Intelligence (AI). The course defines “Intelligent Behavior”, describes the relationship between AI and computer science, explains the history of AI and showcases applications of AI in the real world. Students will explore the role of data in AI applications and the algorithms which guide AI decision making. Students will learn about the role of perception in AI and how AI agents use information in decision making. Students will engage in hands-on activities related to use of AI in machine learning. This course also covers ethics in AI applications.",
+      "prerequisites": "Digital Video Technology 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "94010200",
+      "subject": "CTE",
+      "title": "Applications of AI",
+      "description": "The purpose of this course is to assist students in deepening understanding for application of AI and to explore methods and tools utilized to build AI models. The content includes but is not limited to foundational knowledge and skills related to methods and software used to develop AI applications using data sets. Instruction and learning activities are provided in a laboratory setting using hands-on experiences with the equipment, materials and technology appropriate to the course content and in accordance with current practices.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "82095100",
+      "subject": "CTE",
+      "title": "Digital Design 1 Honors",
+      "description": "This course is designed to develop the entry-level skills required for careers in digital design. The content includes computer skills; digital publishing concepts and operations; layout, design, and measurement activities; digital imaging; communication, collaboration and decision-making activities; critical thinking and problem-solving.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "90072200",
+      "subject": "CTE",
+      "title": "Procedural Program for AI with Python",
+      "description": "This course continues the study of computer programming concepts with a focus on the creation of software applications employing procedural programming techniques.",
+      "prerequisites": "Artificial Intelligence in the World &amp; Applications of AI",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "82095200",
+      "subject": "CTE",
+      "title": "Digital Design 2 Honors",
+      "description": "This course continues the development of entry-level skills required for careers in digital design. The content includes computer skills; digital publishing operations; layout, design, and measurement activities; digital imaging; communication, collaboration and decision-making activities; critical thinking and problem solving.",
+      "prerequisites": "Digital Design 1 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "84171000",
+      "subject": "CTE",
+      "title": "Health Science 1 – Anatomy & Physiology",
+      "description": "This course is part of the secondary Health Core consisting of an overview of the human body, both structurally and functionally with emphasis on the pathophysiology and transmission of disease. Medical terminology is an integral part of the course.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "84171100",
+      "subject": "CTE",
+      "title": "Health Science 2 – Foundations Honors",
+      "description": "This course is part of the Secondary Health Core designed to provide the student with an in depth knowledge of the health care system and associated occupations. Emphasis is placed on communication and interpersonal skills, use of technology, ethics and the development of critical thinking and problem solving skills. Students may shadow professionals throughout the course.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "82095300",
+      "subject": "CTE",
+      "title": "Digital Design 3 Honors",
+      "description": "This course continues the development of industry-standard skills required for careers in digital design. The content includes the use of software and equipment to perform digital publishing and digital imaging activities. Students continue to learn about communication, collaboration and decision-making activities, critical thinking and problem solving.",
+      "prerequisites": "Digital Design 2 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "84171310",
+      "subject": "CTE",
+      "title": "Allied Health Assistance Honors",
+      "prerequisites": "",
+      "description": "In this course, students will perform skills representative of one to three areas of allied health care in the laboratory and clinical settings.",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "82095400",
+      "subject": "CTE",
+      "title": "Digital Design 4 Honors",
+      "description": "This course is designed to develop advanced industry-standard skills required for careers in digital design. The content includes the use of software and equipment, including digital video cameras and video/audio editing software.",
+      "prerequisites": "Digital Design 3 Honors",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13003000",
+      "subject": "Electives",
+      "title": "Music Theory 1",
+      "description": "Students learn how music is constructed and developed, and acquire a basic understanding of the structural, technical, and historical elements of music. Student theorists develop basic ear-training, keyboard, and functional singing skills, and engage in the creative process through individual and collaborative projects.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13003100",
+      "subject": "Electives",
+      "title": "Music Theory 2",
+      "description": "Students with prior music theory training study composition, form, and analysis, and develop individual aural skills. The aural, analytical, and cognitive skills expanded in this class inform the serious musicians performance abilities over a variety of styles and genres. Public performances may serve as a resource for specific instructional goals. Students may be required to attend one or more performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "Music Theory 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13003400",
+      "subject": "Electives",
+      "title": "Music World",
+      "description": "Students explore the musical traditions of 20th- and 21st-century American and global communities around the world through study of current trends, focusing on the function of music within various cultures (e.g., jazz, world drumming, mariachi, soul, gamelan, Bollywood, digital). Students examine and report on human activities involving music, technology- and culture-related influences on music, and the sounds and structures of music composition.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13023000",
+      "subject": "Electives",
+      "title": "Band 1",
+      "description": "This year-long, entry-level class, designed for students having little or no previous band experience with woodwind, brass, and/or percussion instruments, promotes the enjoyment and appreciation of music through performance of high-quality, beginning wind and percussion literature from different times and places. Rehearsals focus on the development of critical listening/aural skills; rudimentary instrumental technique and skills, music literacy, and ensemble skills; and aesthetic musical awareness culminating in periodic public performances.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13023100",
+      "subject": "Electives",
+      "title": "Band 2",
+      "description": "This year-long, beginning-level class, designed for students with at least one year of woodwind, brass, and/ or percussion ensemble experience, promotes the enjoyment and appreciation of music through performance of high-quality wind and percussion literature. Rehearsals focus on the development of critical listening skills, instrumental and ensemble technique and skills, expanded music literacy, and aesthetic awareness culminating in periodic public performances.",
+      "prerequisites": "Band 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13023200",
+      "subject": "Electives",
+      "title": "Band 3",
+      "description": "This year-long, formative class, designed for students ready to build on skills and knowledge previously acquired in a middle or high school instrumental ensemble, promotes the enjoyment and appreciation of music through performance of high-quality, intermediate-level wind and percussion literature. Rehearsals focus on development of critical listening/aural skills, individual musicianship, instrumental technique, refinement of ensemble skills, and aesthetic engagement culminating in periodic public performances.",
+      "prerequisites": "Band 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": ""
+    },
+    {
+      "courseNumber": "13023300",
+      "subject": "Electives",
+      "title": "Band 4",
+      "description": "This year-long, intermediate-level course, designed for students who demonstrate proficiency in woodwind, brass and/or percussion techniques, music literacy, critical listening/aural skills, and ensemble performance skills, promotes greater engagement with and appreciation for music through performance and other experiences with a broad spectrum of music, as well as creativity through composition and/or arranging. Study includes cultivation of well-developed instrumental ensemble techniques and skills, music literacy and theory, and deeper aesthetic engagement with a wide variety of high-quality repertoire.",
+      "prerequisites": "Band 3",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13023400",
+      "subject": "Electives",
+      "title": "Band 5 Honors",
+      "description": "This year-long, advanced course, designed for wind and percussion students with extensive experience in solo performance and larger performing ensembles, promotes significant depth of engagement and lifelong appreciation of music through performance and other experiences with sophisticated instrumental music, as well as creativity through composition and/or arranging. The course includes the development of advanced instrumental ensemble techniques and skills, extended music literacy and theory, and deep aesthetic engagement with a broad spectrum of high-quality repertoire, ranging from early music to the contemporary. Musical independence and leadership are particularly encouraged in this setting.",
+      "prerequisites": "Band 4",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13025100",
+      "subject": "Electives",
+      "title": "Jazz Ensemble 2",
+      "description": "Students with jazz experience become conversant with basic chord progressions and the scale/chord relationship, strengthen aural skills, and learn to improvise and compose melodies over progressions as they rehearse, perform, and study high-quality jazz ensemble literature. Musicians study jazz history and become familiar with the cultural context of various compositions and artists.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13025200",
+      "subject": "Electives",
+      "title": "Jazz Ensemble 3",
+      "description": "Students with considerable jazz experience become conversant with more complex forms and harmonic progressions, and strengthen their aural and improvisational skills as they rehearse, perform, and study high-quality jazz ensemble literature. Musicians apply their theory skills to arranging, transposition, and composing; and study various periods, cultural contexts, compositions, and artists in jazz history.",
+      "prerequisites": "Jazz Ensemble 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13025300",
+      "subject": "Electives",
+      "title": "Jazz Ensemble 4 Honors",
+      "description": "Students with significant jazz experience become highly conversant with complex harmonic structures; compose or arrange for small groups; improvise over various forms, keys, and styles; and are knowledgeable about the professional jazz scene and its icons. Musicians study the impact of technology on jazz and the music industry, and learn the basics of sound reinforcement for solo and ensemble performance. In keeping with the rigor expected in an Honors course, students undertake independent study that includes synthesis of learning and experience.",
+      "prerequisites": "Jazz Ensemble 3",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13024300",
+      "subject": "Electives",
+      "title": "Percussion 2",
+      "description": "Students in this novice-level class continue to develop musical and technical skills on a specific instrument through developmentally appropriate solo literature, etudes, scales, and exercises. Through problem-solving, critical thinking, and reflection, students develop the physical and cognitive skills necessary to be more disciplined performers. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13024400",
+      "subject": "Electives",
+      "title": "Percussion 3",
+      "description": "Students in this intermediate-level class develop their musical and technical skills further on a specific instrument, and expand their technical and performance skills, enhanced by historical and cultural background knowledge of the music. Students explore more demanding solo literature, etudes, and technical exercises with increasing independence. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "Percussion 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13024500",
+      "subject": "Electives",
+      "title": "Percussion 4 Honors",
+      "description": "Students in this advanced class refine their musicianship and performance skills on a specified instrument. Students prepare for post-secondary and community music experiences and develop artistry independently through a variety of advanced solos, etudes, and excerpts. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "Percussion 3",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13033000",
+      "subject": "Electives",
+      "title": "Chorus 1",
+      "description": "This year-long, entry-level class, designed for students with little or no choral experience, promotes the enjoyment and appreciation of music through performance of beginning choral repertoire from a variety of times and places. Rehearsals focus on the development of critical listening skills; foundational instrumental technique and skills, music literacy, and ensemble skills; and aesthetic musical awareness culminating in periodic public performances.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13033100",
+      "subject": "Electives",
+      "title": "Chorus 2",
+      "description": "This year-long, beginning-level class, designed for students with one year of experience or less in a choral performing group, promotes the enjoyment and appreciation of music through performance of basic, high-quality choral music. Rehearsals focus on the development of critical listening/aural skills; foundational instrumental technique and skills, music literacy, and ensemble skills; and aesthetic musical awareness culminating in periodic public performances.",
+      "prerequisites": "Chorus 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "",
+      "subject": "Math",
+      "title": "AP Statistics",
+      "description": "AP Statistics is an introductory college-level statistics course that introduces students to the major concepts and tools for collecting, analyzing, and drawing conclusions from data. Students cultivate their understanding of statistics using technology, investigations, problem solving, and writing as they explore concepts like variation and distribution; patterns and uncertainty; and data-based predictions, decisions, and conclusions.",
+      "prerequisites": "Algebra II or equivalent course and teacher recommendation",
+      "grades": "11-12",
+      "creditEquivalency": "Passing Score 3-5: STA2023 – Statistics (3 credits)",
+      "type": "AP"
+    },
+    {
+      "courseNumber": "01013000",
+      "subject": "Electives",
+      "title": "2-D Studio Art 1",
+      "description": "Students experiment with the media and techniques used to create a variety of two-dimensional (2-D) artworks through the development of skills in drawing, painting, printmaking, collage, and/or design. Students practice, sketch, and manipulate the structural elements of art to improve mark making and/or the organizational principles of design in a composition from observation, research, and/or imagination.",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01013100",
+      "subject": "Electives",
+      "title": "2-D Studio Art 2",
+      "description": "Students develop and refine technical skills and create 2-D compositions with a variety of media in drawing, painting, printmaking, collage, and/or design. Student artists sketch, manipulate, and refine the structural elements of art to improve mark-making and/or the organizational principles of design in a composition from observation, research, and/or imagination. ",
+      "prerequisites": "2-D Studio Art 1",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01013200",
+      "subject": "Electives",
+      "title": "2-D Studio Art 3",
+      "description": "Students demonstrate proficiency in the conceptual development of content in drawing, painting, printmaking, collage, and/or design to create self-directed or collaborative 2-D artwork suitable for inclusion in a portfolio. Students produce works that show evidence of developing craftsmanship and quality in the composition. Through the critique process, students evaluate and respond to their own work and that of their peers. ",
+      "prerequisites": "2-D Studio Art 2",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01013300",
+      "subject": "Electives",
+      "title": "3-D Studio Art 1",
+      "description": "Students explore how space, mass, balance, and form combine to create aesthetic forms or utilitarian products and structures. Instruction may include, but is not limited to, content in green or industrial design, sculpture, ceramics, or building arts. Media may include, but are not limited to, clay, wood, plaster, and paper maché with consideration of the workability, durability, cost, and toxicity of the media used. Student artists consider the relationship of scale (i.e., hand-held, human, monumental) through the use of positive and negative space or voids, volume, visual weight, and gravity to create low/high relief or freestanding structures for personal intentions or public places. They explore sharp and diminishing detail, size, position, overlapping, visual pattern, texture, implied line, space, and plasticity, reflecting craftsmanship and quality in the surface and structural qualities of the completed art forms. ",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01013400",
+      "subject": "Electives",
+      "title": "3-D Studio Art 2",
+      "description": "Students explore spatial relationships through the use of nonobjective, abstract, or representational forms, products, or structures. Instruction may include, but is not limited to, content in green or industrial design, sculpture, ceramics, or building arts. Processes and techniques for substitution include wheel-thrown clay, glaze formulation and application, or extruded, cast, draped, molded, laminated, or soft forms. ",
+      "prerequisites": "3-D Studio Art 1",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01013500",
+      "subject": "Electives",
+      "title": "3-D Studio Art 3 Honors",
+      "description": "Students communicate a sense of 4-D, motion, and/or time, based on creative use of spatial relationships and innovative treatment of space and its components. Instruction may include, but is not limited to, content in green or industrial design, sculpture, ceramics, or building arts. Students address 4-D, the inter-relatedness of art and context, and may also include installation or collaborative works, virtual realities, light as a medium (i.e., natural, artificial, or reflective), or flexible, entered, or activated space. ",
+      "prerequisites": "3-D Studio Art 2",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "01043400",
+      "subject": "Electives",
+      "title": "Drawing 1",
+      "description": "Students experiment with the media and techniques used to create a variety of two-dimensional (2-D) artworks through the development of skills in drawing. Students practice, sketch, and manipulate the structural elements of art to improve mark making and/or the organizational principles of design in a composition from observation, research, and/or imagination. Through the critique process, students evaluate and respond to their own work and that of their peers. This course incorporates hands-on activities and consumption of art materials.",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01043500",
+      "subject": "Electives",
+      "title": "Drawing 2",
+      "description": "Students develop and refine technical skills and create 2-D compositions with a variety of media in drawing. Student artists sketch, manipulate, and refine the structural elements of art to improve mark-making and/or the organizational principles of design in a composition from observation, research, and/or imagination. Through the critique process, students evaluate and respond to their own work and that of their peers. This course incorporates hands-on activities and consumption of art materials.",
+      "prerequisites": "Drawing 1",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "01093100",
+      "subject": "Electives",
+      "title": "Portfolio Development: Drawing Honors",
+      "description": "Students work in a self-directed environment to develop a portfolio showing a body of their own work that visually explores a particular artistic concern, articulated and supported by a written artist's statement. Artists may work in, but are not limited to, content in drawing, painting, printmaking, and/or mixed media that emphasizes line quality, rendering of form, composition, surface manipulation, and/or illusion of depth. Students regularly reflect on aesthetics and art issues individually and as a group, and focus on expressive content that is progressively more innovative and representative of the student's artistic and cognitive growth",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "01093200",
+      "subject": "Electives",
+      "title": "Portfolio Development: 2-D Design Honors",
+      "description": "Students work in a self-directed environment to develop a portfolio showing a body of their own work that visually explores a particular artistic concern, articulated and supported by a written artist's statement. Artists may work in, but are not limited to, content in drawing, painting, printmaking, mixed media, traditional photography, digital photography, and/or new media and emerging technologies that demonstrate understanding of design principles as applied to a 2-dimensional surface.",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "01093300",
+      "subject": "Electives",
+      "title": "Portfolio Development: 3-D Design Honors",
+      "description": "Students work in a self-directed environment to develop a portfolio showing a body of their own work that visually explores a particular artistic concern, articulated and supported by a written artist's statement. Artists may work in, but are not limited to, content in clay, wood, wire, glass, metal, jewelry, fabrics/fibers, fashion design, green design, industrial design, and/or objects for interior design or architecture that integrate 3-dimensional design issues in a purposeful way. ",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "01083550",
+      "subject": "Electives",
+      "title": "Pre-AICE Photography",
+      "description": "Students explore the aesthetic foundations of art making using beginning photography techniques. This course may include, but is not limited to, color and/or black and white photography via digital media and/or traditional photography. Students become familiar with the basic mechanics of a camera, including lens and shutter operation, compositional foundations, printing an image for display, and evaluating a successful print. ",
+      "prerequisites": "",
+      "grades": "9-12",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13034000",
+      "subject": "Electives",
+      "title": "Chorus 5 Honors",
+      "description": "This year-long, advanced class is designed for students with previous participation in a high school chorus who have demonstrated a capacity for developing advanced listening/aural skills and advanced knowledge of vocal techniques, musical literacy, and choral performance. Chorus V focuses on development and application of these skills and provides opportunities for aesthetic engagement and making individual musical choices, where appropriate, while preparing a variety of high-quality choral literature.",
+      "prerequisites": "Chorus 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13035000",
+      "subject": "Electives",
+      "title": "Chorus 6 Honors",
+      "description": "This year-long, very advanced class is designed for students who have demonstrated a capacity for developing very advanced listening/aural skills and performance techniques, as well as very advanced knowledge of vocal techniques, musical literacy, ensemble skills, and related musical knowledge. Chorus VI focuses on managing, mastering, and refining these skills and techniques through a variety of high-quality choral literature at a high level of aesthetic engagement. Musical independence and student leadership are promoted through significant opportunities for peer mentoring, solo work, and participation as a performer, conductor, or coach in a small or large ensemble.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "13053000",
+      "subject": "Electives",
+      "title": "Color Guard 1 (Eurythmics)",
+      "description": "Student dancers develop basic skills in performing and evaluating choreographed performances as an independent ensemble and in cooperation with a music ensemble. Emphasis is placed on dance, equipment manipulation, precision, and the relationship between music and dance. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13053100",
+      "subject": "Electives",
+      "title": "Color Guard 2 (Eurythmics)",
+      "description": "Student dancers build on previous experience to perform and evaluate choreographed performances as an independent ensemble and in cooperation with a music ensemble. Students focus on strengthening dance skills, equipment manipulation, precision, and the relationship between music and dance. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "Color Guard 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13053200",
+      "subject": "Electives",
+      "title": "Color Guard 3 (Eurythmics)",
+      "description": "Student dancers strengthen their performance and evaluative skills, and explore the basic processes of designing choreography for an independent ensemble or in cooperation with a music ensemble. Students develop more sophisticated dance skills and equipment manipulation. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "Color Guard 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "13053300",
+      "subject": "Electives",
+      "title": "Color Guard 4 (Eurythmics)",
+      "description": "Student dancers develop advanced skills in creating, performing, and evaluating choreographed performances as an independent ensemble and in cooperation with a music ensemble. Coursework focuses on dance, equipment manipulation, precision, and analysis of the relationship between music and dance. Public performances may serve as a culmination of specific instructional goals. Students may be required to attend and/or participate in rehearsals and performances outside the school day to support, extend, and assess learning in the classroom.",
+      "prerequisites": "Color Guard 3",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "03003100",
+      "subject": "Electives",
+      "title": "Dance Technique 1",
+      "description": "Students in this year-long, entry-level course, designed for those having no prior dance instruction, learn foundational skills in two or more dance styles. Their development of fundamental dance technique is enriched and enlivened through study of works by a variety of diverse artists, developing genre-specific movement vocabulary and dance terminology, and building knowledge and skills related to somatic practices, dance composition, analysis of effort and outcomes, dance history and culture, collaborative work, and rehearsal and performance protocols.",
+      "prerequisites": "",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "03003200",
+      "subject": "Electives",
+      "title": "Dance Technique 2",
+      "description": "Students in Dance Techniques II, a year-long course, build on previously acquired knowledge and fundamental technical skills in two or more dance forms, focusing on developing the aesthetic quality of movement in the ensemble and as an individual.",
+      "prerequisites": "Dance Technique 1",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Regular"
+    },
+    {
+      "courseNumber": "03003300",
+      "subject": "Electives",
+      "title": "Dance Technique 3 Honors",
+      "description": "Students in this year-long, intermediate-level course, designed for dancers who have mastered the basics in two or more dance forms, build technical and creative skills with a focus on developing the aesthetic quality of movement in the ensemble and as an individual.",
+      "prerequisites": "Dance Technique 2",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
+    },
+    {
+      "courseNumber": "03003400",
+      "subject": "Electives",
+      "title": "Dance Technique 4 Honors",
+      "description": "Students in this year-long, advanced dance techniques class build on skills learned in previous dance classes to improve their performance in two or more dance styles. During the class, students perform sequences of increasing complexity to advance their technical skills.",
+      "prerequisites": "Dance Technique 3",
+      "grades": "",
+      "creditEquivalency": "",
+      "type": "Honors"
     }
   ]
 }
