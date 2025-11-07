@@ -435,7 +435,7 @@
     {
       "courseNumber": "02003350",
       "subject": "Elective",
-      "title": "Computer Science AS Level",
+      "title": "AICE Computer Science AS Level",
       "description": "The aims of this course are to enable students to develop computational thinking skills, an understanding of the main principles of solving problems using computers, the component parts of computer systems and how they interrelate, including software, data, hardware, communication and people, the different methods of communication and the functionality of networks and the internet, and the skills necessary to apply this understanding to develop computer-based solutions to problems.",
       "prerequisites": "Advanced IT Honors or equivalent course",
       "grades": "10-12",
@@ -446,7 +446,7 @@
     {
       "courseNumber": "02004600",
       "subject": "Elective",
-      "title": "Design and Technology AS Level",
+      "title": "AICE Design and Technology AS Level",
       "description": " This course encourages candidates to be innovative and creative and to develop their ability to design high-quality products. Through their studies, candidates will: develop an awareness of the significance of design and technology to society and learn more about production processes and industrial practices. ",
       "prerequisites": "Introduction to Engineering Honors",
       "grades": "10-12",
@@ -457,7 +457,7 @@
     {
       "courseNumber": "20013810",
       "subject": "Science",
-      "title": "Environmental Management AS Level (Group 1 or 3)",
+      "title": "AICE Environmental Management AS Level (Group 1 or 3)",
       "description": " This course develops scientific knowledge and understanding of global environmental issues and theories, and of the policies and strategies for managing the environment. It covers the sustainable use and management of resources, and strategies that aim to protect the environment. ",
       "prerequisites": "Biology and Chemistry:",
       "grades": "10-12",
@@ -468,7 +468,7 @@
     {
       "courseNumber": "20025150",
       "subject": "Science",
-      "title": "Marine Science AS Level",
+      "title": "AICE Marine Science AS Level",
       "description": "This course provides a coherent and stimulating introduction to the science of the marine environment. The emphasis throughout is on the understanding of concepts and the application of ideas to new contexts. ",
       "prerequisites": "Biology and Chemistry",
       "grades": "10-12",
@@ -479,9 +479,9 @@
     {
       "courseNumber": "21073600",
       "subject": "Elective",
-      "title": " Psychology AS & A Level (Group 1 or 3)",
+      "title": "AICE Psychology AS & A Level (Group 1 or 3)",
       "description": " The course aims to encourage an interest in and appreciation of psychology through an exploration of the ways in which psychology is conducted. This exploration includes a review of a number of important research studies and an opportunity to look at the ways in which psychology has been applied. ",
-      "prerequisites": "AS Level: English General Paper; A Level: AS Psychology",
+      "prerequisites": "AS Level: AICE English General Paper; A Level: AS Psychology",
       "grades": "10-12",
       "creditEquivalency": "AS Level: PSY2012 – General Psychology (3 credits); A Level: PSY2043 – Advanced General Psychology (3 credits)",
       "type": "AICE",
@@ -490,7 +490,7 @@
     {
       "courseNumber": "30260200",
       "subject": "Elective",
-      "title": "Sport & Physical Education AS Level (Group 1 or 3) ",
+      "title": "AICE Sport & Physical Education AS Level (Group 1 or 3) ",
       "description": " This course develops student’s knowledge and understanding of the theories underpinning performance and the acquisition and development of motor skills in physical activity and sport. They also effectively perform a range of sports skills and techniques and select and apply tactics and strategies and understand and appreciate safe practice in physical activity and sport and the benefits of physical exercise for health, fitness, and well-being. ",
       "prerequisites": " Biology and Chemistry",
       "grades": "10-12",
@@ -721,10 +721,10 @@
     {
       "courseNumber": "21005000",
       "subject": "Social Studies",
-      "title": "U.S. History AS Level",
+      "title": "AICE U.S. History AS Level",
       "description": "Students will study the origins of the Civil War, Civil War and Reconstruction, 1861–77, the Gilded Age and Progressive Era, 1870s to 1920, the Great Crash, the Great Depression and the New Deal policies, 1920–41.",
       "grades": "11",
-      "prerequisites": "English General Paper or teacher recommendation",
+      "prerequisites": "AICE English General Paper or teacher recommendation",
       "creditEquivalency": "AMH2029 – History of the United States Since 1877 (3 credits)",
       "type": "AICE",
       "aiceCategory": ""
@@ -732,9 +732,9 @@
     {
       "courseNumber": "17003640",
       "subject": "Social Studies",
-      "title": "Global Perspectives and Research AS Level",
-      "description": "Global Perspectives and Research is a skills-based course that prepares learners for positive engagement with our rapidly changing world. Learners broaden their outlook through the critical analysis of and reflection on issues of global significance. They will develop unique, transferable skills including research, critical thinking, and communication by following an approach to analyzing and evaluating arguments and perspectives called the 'Critical Path'.",
-      "prerequisites": "English General Paper or Equivalent",
+      "title": "AICE Global Perspectives and Research AS Level",
+      "description": "AICE Global Perspectives and Research is a skills-based course that prepares learners for positive engagement with our rapidly changing world. Learners broaden their outlook through the critical analysis of and reflection on issues of global significance. They will develop unique, transferable skills including research, critical thinking, and communication by following an approach to analyzing and evaluating arguments and perspectives called the 'Critical Path'.",
+      "prerequisites": "AICE English General Paper or Equivalent",
       "grades": "11-12",
       "creditEquivalency": " ISS2011 – Interdisciplinary Social Science (3 credits)",
       "type": "AICE",
@@ -743,9 +743,9 @@
     {
       "courseNumber": "10015500",
       "subject": "English",
-      "title": " English Language AS & A Level",
+      "title": "AICE English Language AS & A Level",
       "description": " AS Level English Language provides learners with opportunities to make critical and informed responses to a wide range of texts. Learners will also demonstrate their ability to produce writing to specific briefs and for given audiences. A Level English Language learners will also develop a strong foundation in the study of linguistics, focusing on language change, child language acquisition, English in the world, and language and the self. Learners who follow the Cambridge International AS &amp; A Level English Language syllabus will develop the following skills and understanding:  • sustaining accurate, fluent and consistent writing  • producing informed responses appropriate to the specified form, style, context, and audiences  • conveying knowledge and understanding from both specific examples and wider studies.",
-      "prerequisites": " AS Level: English General Paper; A Level: English Language AS Level",
+      "prerequisites": " AS Level: AICE English General Paper; A Level: English Language AS Level",
       "grades": "10-12",
       "creditEquivalency": "AS Level: ENC1101 – Composition I (3 credits); A Level: ENC1102 – Composition II (3 credits)",
       "type": "AICE",
@@ -754,7 +754,7 @@
     {
       "courseNumber": "07085380",
       "subject": "Foreign Language",
-      "title": "Spanish Language AS Level",
+      "title": "AICE Spanish Language AS Level",
       "description": "This course develops student’s language proficiency required to communicate effectively in Spanish. Students explore and engage with the culture and society of countries and communities where Spanish is spoken.",
       "prerequisites": "Spanish III or teacher recommendation",
       "grades": "10-12",
@@ -765,7 +765,7 @@
     {
       "courseNumber": "07085500",
       "subject": "Foreign Language",
-      "title": "Spanish Language & Literature A Level",
+      "title": "AICE Spanish Language & Literature A Level",
       "description": "This course develops the language proficiency required to communicate effectively in Spanish. Students explore, appreciate, and engage with the culture, society and literature of countries and communities where Spanish is spoken.",
       "prerequisites": "AICE Spanish Language or teacher recommendation",
       "grades": "10-12",
@@ -777,7 +777,7 @@
     {
       "courseNumber": "",
       "subject": "Electives",
-      "title": "Art & Design AS Level",
+      "title": "AICE Art & Design AS Level",
       "description": "This course develops an inquisitive, creative approach to research and problem-solving, the ability to record from ﬁrst-hand observation, personal experience and other sources, independent expression by analyzing, evaluating, and applying concepts and techniques, a clear contextual framework that aids critical reﬂection of their work, and a critical understanding of important concepts and formal elements of art and design.",
       "prerequisites": "Teacher recommendation",
       "grades": "10-12",
@@ -788,7 +788,7 @@
     {
       "courseNumber": "11004300",
       "subject": "Electives",
-      "title": "Digital Media and Design AS Level",
+      "title": "AICE Digital Media and Design AS Level",
       "description": "This course is for students who want to explore a range of processes and techniques in digital media. The content is grouped into three broad areas of study: digital photography, moving image through film and animation, and mobile and multimedia applications, including game design.The aims describe the purposes of a course based on this syllabus. The aims are to enable students to: • develop critical understanding of international media through engagement with media products and concepts • develop critical understanding of international media through engagement with the creative application of practical skills • explore production processes, technologies and contexts • develop independence in research skills and their application • enjoy and appreciate the media and its role in their daily lives • appreciate and engage with a variety of global and local media texts • explore the impact of the media within a variety of cultures and how this influences social values",
       "prerequisites": "Pre-AICE Photography, Digital Media Design 1, or Photoshop certified",
       "grades": "10-12",
@@ -799,9 +799,9 @@
     {
       "courseNumber": "",
       "subject": "English",
-      "title": "English Literature AS Level",
+      "title": "AICE English Literature AS Level",
       "description": "Students will study a range of texts in the three main forms: prose, poetry, and drama. Set texts are offered from a wide range of different periods and cultures. Students will develop skills of reading and analysis of texts and are encouraged to undertake wider reading to aid understanding of the texts studied.",
-      "prerequisites": "English General Paper & English Language",
+      "prerequisites": "AICE English General Paper & English Language",
       "grades": "11-12",
       "creditEquivalency": "ENC1102 – Composition II (3 credits)",
       "type": "AICE",
@@ -810,9 +810,9 @@
     {
       "courseNumber": "1100430A",
       "subject": "Electives",
-      "title": "Media Studies AS Level",
+      "title": "AICE Media Studies AS Level",
       "description": "This course offers the chance to develop an understanding and appreciation of the place of media in our everyday lives. The syllabus enables learners to take a hands-on approach to the subject.  Through the Foundation Portfolio, students create their own media products from planning through to execution. Learners also consider and analyze examples from existing media, examining production processes and technologies and the effects they achieve.",
-      "prerequisites": "English General Paper",
+      "prerequisites": "AICE English General Paper",
       "grades": "10-12",
       "creditEquivalency": "DIG1000 – Introduction to Digital Media (3 credits)",
       "type": "AICE",
@@ -821,9 +821,9 @@
     {
       "courseNumber": "21083100",
       "subject": "Electives",
-      "title": "Sociology AS Level",
+      "title": "AICE Sociology AS Level",
       "description": "In a rapidly changing world, this course offers the opportunity not only to explore the processes that are shaping current trends, but also to develop an understanding of the complexity and diversity of human societies and their continuities with the past. The study of sociology stimulates awareness of contemporary social, cultural, and political issues, and focuses on the importance of examining these issues in a rigorous, reasoned, and analytical way.",
-      "prerequisites": "English General Paper",
+      "prerequisites": "AICE English General Paper",
       "grades": "10-12",
       "creditEquivalency": "SYG2000 – Principles of Sociology (3 credits)",
       "type": "AICE",
@@ -832,9 +832,9 @@
     {
       "courseNumber": "21024100",
       "subject": "Electives",
-      "title": "Travel and Tourism AS Level",
+      "title": "AICE Travel and Tourism AS Level",
       "description": "This syllabus encourages learners to appreciate the scale and importance of the travel and tourism industry in the world and recognize the positive and negative impacts the industry may have on people, environments, and economies. The syllabus encourages learners to develop practical and technical skills relevant to the industry, enabling them to deal with a range of complex situations and problems.",
-      "prerequisites": "English General Paper",
+      "prerequisites": "AICE English General Paper",
       "grades": "10-12",
       "creditEquivalency": "HFT1000 – Introduction to Hospitality & Tourism (3 credits)",
       "type": "AICE",
@@ -843,7 +843,7 @@
     {
       "courseNumber": "10094002",
       "subject": "English",
-      "title": "English General Paper AS Level",
+      "title": "AICE English General Paper AS Level",
       "description": "This course engages students with a variety of topics, including knowledge and understanding gained from study of other subjects. They learn to become confident in analyzing knowledge and opinion from a variety of sources, to build arguments and to communicate through written English.",
       "prerequisites": "FAST ELA Score 3-5",
       "grades": "9-12",
@@ -863,8 +863,8 @@
     {
       "courseNumber": "17003721",
       "subject": "Electives",
-      "title": "Thinking Skills AS Level",
-      "description": "Thinking Skills develops a set of transferable skills, including critical thinking, reasoning and problem solving, that students can apply across a wide range of subjects and complex real-world issues. The syllabus enables students to develop their ability to analyze unfamiliar problems, devise problem solving strategies, and evaluate the diverse ways a problem may be solved.",
+      "title": "AICE Thinking Skills AS Level",
+      "description": "AICE Thinking Skills develops a set of transferable skills, including critical thinking, reasoning and problem solving, that students can apply across a wide range of subjects and complex real-world issues. The syllabus enables students to develop their ability to analyze unfamiliar problems, devise problem solving strategies, and evaluate the diverse ways a problem may be solved.",
       "prerequisites": "FAST ELA Score 3-5",
       "grades": "9-12",
       "creditEquivalency": "PHI1103 – Introductory Logic (3 credits)",
