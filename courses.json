@@ -12,9 +12,9 @@
     {
       "courseNumber": "",
       "subject": "English",
-      "title": "English II Pre AICE",
+      "title": "English II Pre-AICE",
       "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular, English III Honors, AICE, or Advanced Placement Language and Composition. ",
-      "prerequisites": "English I Pre AICE",
+      "prerequisites": "English I Pre-AICE",
       "grades": "9",
       "type": "Honors"
     },
@@ -654,15 +654,15 @@
       "courseNumber": "10013100",
       "subject": "English",
       "title": "English I",
-      "description": "This course aims to provide grade 9 students with texts of high complexity and integrated language arts study in reading, writing, speaking, listening, and language for college and career preparation and readiness. This course is a prerequisite for English II Regular and English II Pre AICE.",
+      "description": "This course aims to provide grade 9 students with texts of high complexity and integrated language arts study in reading, writing, speaking, listening, and language for college and career preparation and readiness. This course is a prerequisite for English II Regular and English II Pre-AICE.",
       "grades": "",
       "type": "Regular"
     },
     {
       "courseNumber": "10015600",
       "subject": "English",
-      "title": "English I Pre AICE",
-      "description": "This course aims to provide grade 9 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a prerequisite for English II Pre AICE or AICE General Paper.",
+      "title": "English I Pre-AICE",
+      "description": "This course aims to provide grade 9 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a prerequisite for English II Pre-AICE or AICE General Paper.",
       "grades": "",
       "type": "Honors"
     },
@@ -670,7 +670,7 @@
       "courseNumber": "10013400",
       "subject": "English",
       "title": "English II",
-      "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular and English III Pre AICE.",
+      "description": "This course aims to provide grade 10 students with advanced integrated language arts study in reading, writing, speaking, and listening in preparation for college and career readiness.  This course is a pre-requisite for English III Regular and English III Pre-AICE.",
       "grades": "",
       "type": "Regular"
     },
