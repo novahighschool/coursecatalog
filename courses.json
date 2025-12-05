@@ -115,6 +115,16 @@
       "type": "AP",
       "creditEquivalency": "Passing Score 3-5: CGS1060C – Computer & Internet Literacy (3 credits)"
     },
+    {
+      "courseNumber": "",
+      "subject": "CTE",
+      "title": "EMT (Research)",
+      "description": "The emergency Medical Technician Certification Program is a rigorous, career-focused academy designed for motivated seniors interested in healthcare, emergency response, and public service.  Through a partnership with Barry University, students receive hands-on training, industry-level instruction, and real-world field experience that prepares them to earn their EMT certification.  Students must be able to participate in outside classroom field experience doing field rides and clinicals at hospitals.  Students are responsible for the cost of the required background check and uniform.",
+      "prerequisites": "Anatomy & Physiology & Health Science 2 Foundations Honors, Minimum GPA: 2.5, Application Required",
+      "grades": "12",
+      "type": "Regular",
+      "creditEquivalency": ""
+    },
 
     {
       "courseNumber": "0200335C",
