@@ -59,7 +59,7 @@ function createCourseCard(course) {
                 
                 ${course.grades ? `<span>Grades: ${course.grades}</span>`: ""}
                 ${course.prerequisites ? `<span>Prerequisites: ${course.prerequisites}</span>`: ""}
-                ${course.creditEquivalency ? `<span>Credit-by-Exam Equivalency: ${course.creditEquivalency}</span>`: ""}
+                ${course.creditEquivalency ? `<span>Credit-by-Exam Equivalency for College Credit: ${course.creditEquivalency}</span>`: ""}
                 ${course.aiceCategory ? `<span>AICE Category: ${course.aiceCategory}</span>`: ""}
                 
             </div>
