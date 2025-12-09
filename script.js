@@ -5,7 +5,7 @@ fetch("courses.json")
   .then((data) => {
     coursesData = data;
     
-    data.courses.sort((a, b) => a.title.localeCompare(b.title));
+    // data.courses.sort((a, b) => a.title.localeCompare(b.title));
   
     console.log(coursesData);
     filterCourses();
