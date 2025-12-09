@@ -3,7 +3,7 @@ let coursesData;
 fetch("courses.json")
   .then((response) => response.json())
   .then((data) => {
-    // data.courses.sort((a, b) => a.title.localeCompare(b.title));
+    data.courses.sort((a, b) => a.title.localeCompare(b.title));
     coursesData = data;
   
   
