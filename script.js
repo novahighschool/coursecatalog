@@ -93,6 +93,7 @@ function filterCourses() {
       course.aiceCategory?.toLowerCase().includes(search);
     return subjectMatch && typeMatch && searchMatch;
   });
+  .sort((a, b) => a.title.localeCompare(b.title));
   
   console.log("Filtered Courses:", filteredCourses);
   
