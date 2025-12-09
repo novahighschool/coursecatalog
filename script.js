@@ -4,9 +4,10 @@ fetch("courses.json")
   .then((response) => response.json())
   .then((data) => {
     coursesData = data;
+    
+    data.courses.sort((a, b) => a.title.localeCompare(b.title));
   
-  
-  console.log(coursesData);
+    console.log(coursesData);
     filterCourses();
   })
   .catch((error) => console.error("Error loading courses:", error));
